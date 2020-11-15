@@ -33,7 +33,7 @@ Se incluirá una sección o apartado del nivel de dificultad de cada carrera par
   - El usuario podrá conocer el área de trabajo a la que tendría acceso si se decantara por alguna de las carreras relacionadas con la informática y la computación ofertadas por la UADY. 
 
 <a name="item5"></a>
-## Requerimientos de producto
+## Requerimientos del producto
 
 ### Requerimientos funcionales
 
