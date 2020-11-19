@@ -11,4 +11,4 @@ Esta herramienta cuenta con la innovación en que el usuario pueda interactuar p
 
 ***
 | [Inicio](https://github.com/Geovanna-med/Enterate "Inicio") 
-| [Siguiente](https://github.com/WilderTurriza/Enterate/blob/main/Documentos/Requerimientos.md "Siguiente") |
+| [Siguiente](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Requerimientos.md "Siguiente") |
