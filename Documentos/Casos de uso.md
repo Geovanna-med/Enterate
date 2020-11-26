@@ -25,35 +25,35 @@ Presentación de la información correspondiente.
 
   P2. El sistema presenta al actor las futuras carreras que ofrece la UADY en el área de informática y computación. Las carreras presentadas son:
 
-    - Licenciatura en ingeniería de software.
+   - Licenciatura en ingeniería de software.
 
-    - Licenciatura en ingeniería en computación.
+   - Licenciatura en ingeniería en computación.
 
-    - Licenciatura en ciencias de la computación.
+   - Licenciatura en ciencias de la computación.
   
-    - Licenciatura en Administración de Tecnologías de la Información.
+   - Licenciatura en Administración de Tecnologías de la Información.
 
   P3. El actor selecciona la carrera de su interés.
 
   P4. El sistema mostrará los apartados correspondientes a la carrera. Estos apartados son:
 
-    - Competencias deseables.
+   - Competencias deseables.
 
-    - Perfil de egreso.
+   - Perfil de egreso.
 
-    - Plan de estudios.
+   - Plan de estudios.
 
-    - Asignaturas optativas.
+   - Asignaturas optativas.
 
-    - Campo laboral.
+   - Campo laboral.
 
-    - Reconocimientos y Acreditaciones.
+   - Reconocimientos y Acreditaciones.
 
-    - Experiencias estudiantiles.
+   - Experiencias estudiantiles.
 
-    - Información de contacto.
+   - Información de contacto.
 
-    - Descarga de archivos.
+   - Descarga de archivos.
 
   P5. El actor selecciona el apartado el apartado de su interés.
 
