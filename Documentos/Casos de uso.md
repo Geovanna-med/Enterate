@@ -11,7 +11,7 @@ Cualquier futuro aspirante de la UADY.
 
 **3. Pre-condiciones**
 
-El futuro aspirante de la UADY deberá de ingresar a la página principal de la página web.
+El futuro aspirante de la UADY deberá ingresar a la página principal de la página web.
 
 **4. Post-condiciones**
 
@@ -30,6 +30,8 @@ Presentación de la información correspondiente.
   Licenciatura en ingeniería en computación.
 
   Licenciatura en ciencias de la computación.
+  
+  Licenciatura en Administración de Tecnologías de la Información.
 
   P3. El actor selecciona la carrera de su interés.
 
