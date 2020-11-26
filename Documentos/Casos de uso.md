@@ -19,7 +19,7 @@ Presentación de la información correspondiente.
 
 **5. Flujo de eventos**
 
-- 5.1	Flujo principal
+  **5.1	Flujo principal**
 
   P1. El flujo de eventos principal se inicia cuando actor ingresa a la página.
 
@@ -57,7 +57,7 @@ Presentación de la información correspondiente.
 
   P6. El sistema le presentará la información correspondiente.
   
-- 5.2	Flujo Alternativo y de excepción
+  **5.2	Flujo Alternativo y de excepción**
 
 ### CU02: Descargar documentos
 
@@ -79,7 +79,7 @@ El archivo solicitado se pondrá en la cola de descargas.
 
 __5.	Flujo de eventos__
 
-- 5.1	Flujo principal
+  **5.1	Flujo principal**
 
   P1. El flujo de eventos principal se inicia cuando actor ingresa al apartado de descargas.
 
