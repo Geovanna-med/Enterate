@@ -58,6 +58,8 @@ Presentación de la información correspondiente.
   P6. El sistema le presentará la información correspondiente.
   
   **5.2	Flujo Alternativo y de excepción**
+  
+ ------------
 
 ### CU02: Descargar documentos
 
@@ -89,7 +91,7 @@ __5.	Flujo de eventos__
 
   P4. El sistema inicia la descarga del archivo.
 
-
+------------
 
 
 
