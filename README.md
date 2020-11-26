@@ -10,4 +10,5 @@
   - [Plan del proyecto](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Plan%20del%20proyecto.md)
   - [Trabajo en equipo](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Trabajo%20en%20equipo.md)
   - [Proceso de trabajo](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Proceso%20de%20trabajo.md)
+  - [Herramientas](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Herramientas.md)
   - [Bitácora](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Bit%C3%A1cora.md)
