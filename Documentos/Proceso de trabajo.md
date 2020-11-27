@@ -7,8 +7,7 @@ que realmente quieren hacer durante el resto de sus vidas. Es por eso que quisim
 el ámbito tecnológico podrán informarse como se debe para elegir la carrera ideal.
 
 ### Definición de requerimientos
-Los requerimientos se obtuvieron durante una reunión en equipo que se realizó a través de la plataforma [Microsoft Teams](https://github.com/Geovanna-
-med/Enterate/blob/main/Documentos/Herramientas.md#microsoft-teams) en la cual se organizaron, a manera de lista, las características 
+Los requerimientos se obtuvieron durante una reunión en equipo que se realizó a través de la plataforma [Microsoft Teams](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Herramientas.md#microsoft-teams) en la cual se organizaron, a manera de lista, las características 
 que a nosotros como equipo y a nuestros usuarios (entrevistados anteriormente) nos gustaría que tuviera el producto
 
 ### Procesos y roles
@@ -26,8 +25,7 @@ que a nosotros como equipo y a nuestros usuarios (entrevistados anteriormente) n
 Las tareas fueron organizadas en una tabla con el nivel de dificultad de cada una y fueron otorgadas de una manera balanceada para que a todos nos toque una parte del 
 trabajo similar en cuestión de complejidad
 
-Para llevar un control de las tareas cumplidas y las fechas de vencimiento de cada una, utilizamos la aplicación de [Trello](https://github.com/Geovanna-
-med/Enterate/blob/main/Documentos/Herramientas.md#trello). Esta, es una aplicación en donde se escribían 
+Para llevar un control de las tareas cumplidas y las fechas de vencimiento de cada una, utilizamos la aplicación de [Trello](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Herramientas.md#trello). Esta, es una aplicación en donde se escribían 
 en tarjetas las tareas que cada integrante debía de hacer y se nombraba al responsable de cada una junto con un color para hacer su identificación mucho más rápida. Al 
 igual, se iban cambiando de columnas las tareas (Lista de tareas, en proceso, en revisión, verificado o hecho) dependiendo del estado de estas.
 
