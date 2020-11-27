@@ -1,13 +1,14 @@
 # Proceso de trabajo
-Durante este proyecto se utilizará la metodología Scrum, ya que, utilizándola, se podrán realizar las tareas más eficientemente, y así, cumplir con las fechas de entregas con 
-un trabajo de calidad.
+Durante este proyecto se utilizará la metodología Scrum, ya que, utilizándola, se podrán realizar las tareas más eficientemente, y así, cumplir con las fechas de 
+entregas con un trabajo de calidad.
 
-El proyecto nace por la necesidad de que los estudiantes llegan a la universidad sin saber en qué consiste realmente sus carreras, y, por ende, no saben sin eso es lo que 
-realmente quieren hacer durante el resto de sus vidas. Es por eso que quisimos implementar “Entérate”, un recurso en el cual los futuros aspirantes a las carreras en el ámbito 
-tecnológico podrán informarse como se debe para elegir la carrera ideal.
+El proyecto nace por la necesidad de que los estudiantes llegan a la universidad sin saber en qué consiste realmente sus carreras, y, por ende, no saben sin eso es lo 
+que realmente quieren hacer durante el resto de sus vidas. Es por eso que quisimos implementar “Entérate”, un recurso en el cual los futuros aspirantes a las carreras en 
+el ámbito tecnológico podrán informarse como se debe para elegir la carrera ideal.
 
 ### Definición de requerimientos
-Los requerimientos se obtuvieron durante una reunión en equipo que se realizó a través de la plataforma Teams en la cual se organizaron, a manera de lista, las características 
+Los requerimientos se obtuvieron durante una reunión en equipo que se realizó a través de la plataforma [Microsoft Teams](https://github.com/Geovanna-
+med/Enterate/blob/main/Documentos/Herramientas.md#microsoft-teams) en la cual se organizaron, a manera de lista, las características 
 que a nosotros como equipo y a nuestros usuarios (entrevistados anteriormente) nos gustaría que tuviera el producto
 
 ### Procesos y roles
@@ -25,9 +26,10 @@ que a nosotros como equipo y a nuestros usuarios (entrevistados anteriormente) n
 Las tareas fueron organizadas en una tabla con el nivel de dificultad de cada una y fueron otorgadas de una manera balanceada para que a todos nos toque una parte del 
 trabajo similar en cuestión de complejidad
 
-Para llevar un control de las tareas cumplidas y las fechas de vencimiento de cada una, utilizamos la aplicación de Trello. Esta, es una aplicación en donde se escribían 
+Para llevar un control de las tareas cumplidas y las fechas de vencimiento de cada una, utilizamos la aplicación de [Trello](https://github.com/Geovanna-
+med/Enterate/blob/main/Documentos/Herramientas.md#trello). Esta, es una aplicación en donde se escribían 
 en tarjetas las tareas que cada integrante debía de hacer y se nombraba al responsable de cada una junto con un color para hacer su identificación mucho más rápida. Al 
-igual, se iban cambiando de columnas las tareas (Lista de tareas, en proceso o hecho) dependiendo del estado de estas.
+igual, se iban cambiando de columnas las tareas (Lista de tareas, en proceso, en revisión, verificado o hecho) dependiendo del estado de estas.
 
 ## Sprints
 Se ha acordado realizar 3 sprints que nos permitirá tener más organizado el desarrollo del proyecto, cada sprint constará de un lapso de 2 a 4 semanas aproximadamente. 
@@ -37,7 +39,8 @@ Antes de cada Sprint, se realizará una junta con todos los integrantes para org
 deberán lograr en este periodo y repartir tareas que se colocaran en el tablero de Trello junto con las fechas límite
 
 ###### Recopilación de datos:
-Se realizó un formulario en La aplicación Survey Heart para recopilar información de nuestros futuros usuarios acerca de la manera en que es gustaría que 
+Se realizó un formulario en La aplicación [Survey Heart](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Herramientas.md#survey-heart) para recopilar 
+información de nuestros futuros usuarios acerca de la manera en que es gustaría que 
 nuestra información les llegue. Al igual, sacamos algunos requerimientos de esta misma.
 
 ###### Revisión interna:
