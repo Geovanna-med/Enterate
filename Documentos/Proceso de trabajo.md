@@ -57,7 +57,7 @@ eficientemente el siguiente Sprint
 Las fechas establecidas, estarán sujetas a posibles cambios por razones que no podríamos predecir o controlar, así como también por ciertos cambios que pudieran darse con las 
 entregas de los avances del proyecto.
 
-![Calendario](https://github.com/Geovanna-med/Enterate/blob/main/Im%C3%A1genes/calendario.png)
+<center>https://github.com/Geovanna-med/Enterate/blob/main/Im%C3%A1genes/calendario.png</center>
 
 
 
