@@ -58,7 +58,7 @@ Las fechas establecidas, estarán sujetas a posibles cambios por razones que no 
 entregas de los avances del proyecto.
 
 <p align="center">
-  <img width="400" height="350" src="https://github.com/Geovanna-med/Enterate/blob/main/Im%C3%A1genes/calendario.png">
+  <img width="500" height="450" src="https://github.com/Geovanna-med/Enterate/blob/main/Im%C3%A1genes/calendario.png">
 </p>
 
 
