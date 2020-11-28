@@ -49,12 +49,12 @@ verificado, el Product Owner dará o no su aprobación.
 
 ###### Feedback:
 Después de la entrega, se realizará una junta de equipo para evaluar el proceso del sprint pasado, y se comentaran los aspectos a mejorar para trabajar más 
-eficientemente el siguiente Sprint
+eficientemente el siguiente Sprint.
 
 -------------------------------------
 
 ### Calendarización
-Las fechas establecidas, estarán sujetas a posibles cambios por razones que no podríamos predecir o controlar, así como también por ciertos cambios que pudieran darse con las 
+Las fechas establecidas estarán sujetas a posibles cambios por razones que no podríamos predecir o controlar, así como también por ciertos cambios que pudieran darse con las 
 entregas de los avances del proyecto.
 
 <p align="center">
