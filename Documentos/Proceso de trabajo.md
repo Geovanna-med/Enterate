@@ -26,7 +26,7 @@ Las tareas fueron organizadas en una tabla con el nivel de dificultad de cada un
 trabajo similar en cuestión de complejidad. 
 
 Para llevar un control de las tareas cumplidas y las fechas de vencimiento de cada una, utilizamos la aplicación de [Trello](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Herramientas.md#trello). Esta es una aplicación en donde se escribían 
-en tarjetas las tareas que cada integrante debía hacer y se nombraba al responsable de cada una junto con un color para hacer su identificación mucho más rápida, y, posteriormente, se iban cambiando de columnas las tareas (Lista de tareas, en proceso, en revisión, verificado o hecho) dependiendo del estado de éstas.
+en tarjetas las tareas que cada integrante debía hacer y se nombraba al responsable de cada una junto con un color para hacer su identificación mucho más rápida y, posteriormente, se iban cambiando de columnas las tareas (Lista de tareas, en proceso, en revisión, verificado o hecho) dependiendo del estado de éstas.
 
 ## Sprints
 Se ha acordado realizar 3 sprints que nos permitirán tener más organizado el desarrollo del proyecto; cada sprint constará de un lapso de 2 a 4 semanas aproximadamente. 
