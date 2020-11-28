@@ -5,9 +5,11 @@
 
 ## Índice
   - [Objetivos](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Objetivos.md)
+  - [Usuarios y clientes](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Usuarios%20y%20clientes.md)
   - [Requerimientos](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Requerimientos.md)
-  - [Competencias](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Competencias.md)
-  - [Plan del proyecto](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Plan%20del%20proyecto.md)
+  - [Casos de uso](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Casos%20de%20uso.md)
+  - [Herramientas e investigación](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Herramientas.md)
+  - [Proceso y roles](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Proceso%20de%20trabajo.md)
   - [Trabajo en equipo](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Trabajo%20en%20equipo.md)
-  - [Proceso de trabajo](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Proceso%20de%20trabajo.md)
+  - [Competencias de la asignatura](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Competencias.md)
   - [Bitácora](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Bit%C3%A1cora.md)
