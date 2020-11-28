@@ -99,9 +99,6 @@ __5.	Flujo de eventos__
 
 <img src="https://github.com/Geovanna-med/Enterate/blob/main/Im%C3%A1genes/WhatsApp%20Image%202020-11-26%20at%203.45.03%20PM.jpeg">
 
-<p align="left">
-  <img width="437" height="540" src="https://github.com/Geovanna-med/Enterate/blob/main/Im%C3%A1genes/WhatsApp%20Image%202020-11-26%20at%203.45.03%20PM.jpeg">
-</p>
 
 
 
