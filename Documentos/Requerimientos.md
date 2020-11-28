@@ -27,6 +27,6 @@ Basados en encuestas realizadas a los usuarios, se definieron los requerimientos
   - Botones con hipervínculos: permitirán que se despliegue una sección distinta, que corresponderá a cada una de las carreras relacionadas a la informática y computación de la UADY. 
 
 ***
-| [Anterior](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Objetivos.md "Anterior") 
+| [Anterior](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Usuarios%20y%20clientes.md "Anterior") 
 | [Inicio](https://github.com/Geovanna-med/Enterate "Inicio") 
-| [Siguiente](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Competencias.md "Siguiente") |
+| [Siguiente](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Casos%20de%20uso.md "Siguiente") |
