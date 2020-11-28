@@ -29,7 +29,7 @@ Para llevar un control de las tareas cumplidas y las fechas de vencimiento de ca
 en tarjetas las tareas que cada integrante debía hacer y se nombraba al responsable de cada una junto con un color para hacer su identificación mucho más rápida y, posteriormente, se iban cambiando de columnas las tareas (Lista de tareas, en proceso, en revisión, verificado o hecho) dependiendo del estado de éstas.
 
 ## Sprints
-Se ha acordado realizar 3 sprints que nos permitirán tener más organizado el desarrollo del proyecto; cada sprint constará de un lapso de 2 a 4 semanas aproximadamente. 
+Se ha acordado realizar tres sprints que nos permitirán tener más organizado el desarrollo del proyecto; cada sprint constará de un lapso de 2 a 4 semanas aproximadamente. 
 
 ###### Planeación del Sprint:
 Antes de cada Sprint, se realizará una junta con todos los integrantes para organizar la manera en la que estaremos trabajando durante este mismo, fijar metas que se 
