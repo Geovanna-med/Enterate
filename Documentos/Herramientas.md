@@ -31,3 +31,7 @@ Es una aplicación diseñada para poder generar, a través de plantillas predete
 Utilizamos este editor para redactar y editar todo el texto que se subíamos a nuestro repositorio.
 
 
+***
+| [Anterior](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Casos%20de%20uso.md "Anterior") 
+| [Inicio](https://github.com/Geovanna-med/Enterate "Inicio") 
+| [Siguiente](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Proceso%20de%20trabajo.md "Siguiente") |
