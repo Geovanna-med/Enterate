@@ -1,5 +1,4 @@
-## Casos de uso
-
+# Competencias de la asignatura
 
 
 
