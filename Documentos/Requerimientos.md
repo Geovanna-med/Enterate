@@ -17,16 +17,17 @@ Basados en encuestas realizadas a los usuarios, se definieron los requerimientos
 
 #### Requerimientos funcionales
 
-|:----------:|:-------------:|
-| RF001   |     Seleccionar apartados    |  
+
+| RF001   |     Seleccionar apartados    |
+| :---        |    :----:   |
 | Prioridad | Alta |
 |----------|:-------------|
 | Descripción |Cada carrera contará con una sección individual para que el usuario pueda diferenciar la información de una carrera de la información de otra. |
 
 ***
 
-|:----------:|:-------------:|
 | RF002   |     Descargar documentos    |  
+| :---        |    :----:   |
 | Prioridad | Media |
 |----------|:-------------|
 | Descripción |Posibilidad de descarga de los documentos oficiales ofrecidos por la UADY de las carreras relacionadas a la informática y computación. |
@@ -46,9 +47,9 @@ Basados en encuestas realizadas a los usuarios, se definieron los requerimientos
 | Descripción |se usarán para posibilitar la descarga de cualquier documento oficial necesario. |
 
 ***
-|----------|:-------------:|
+
 | RNF003   |   Usar Botones  |  
-|----------|:-------------|
+|----------|:-------------:|
 | Descripción | Botones con hipervínculos los cuales permitirán que se despliegue una sección distinta, que corresponderá a cada una de las carreras relacionadas a la informática y computación de la UADY. |
 
 ***
