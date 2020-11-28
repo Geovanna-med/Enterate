@@ -10,12 +10,12 @@ Estudiante de tercer año de bachillerato.
 
 #### Información básica
 
-Edad: 16-20 años
-Género: Femenino-Masculino
-Títulos de trabajo: Depende del estudiante
-Nivel de experiencia: Depende del estudiante
-Educación: Preescolar, primaria y secundaria terminados; bachillerato sin concluir
-Localización: México
+Edad: 16-20 años 
+Género: Femenino-Masculino 
+Títulos de trabajo: Depende del estudiante 
+Nivel de experiencia: Depende del estudiante 
+Educación: Preescolar, primaria y secundaria terminados; bachillerato sin concluir 
+Localización: México 
 Escenario: preparatoria
 
 #### Información adicional
