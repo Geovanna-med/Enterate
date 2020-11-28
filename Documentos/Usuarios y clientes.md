@@ -107,6 +107,10 @@ Escenario: secundaria
 -	Comienza a definir lo que le gustaría estudiar, pero más como una posibilidad que un hecho.
 -	Se encuentra en la fase de descubrir el ámbito de conocimientos que realmente le atrae.
 
+## Cliente
+
+Cliente: estudiantes de bachillerato y egresados de bachillerato; de ellos se obtiene la información para el trabajo y ellos deciden lo que se pone o se quita. 
+
 ***
 | [Anterior](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Objetivos.md "Anterior") 
 | [Inicio](https://github.com/Geovanna-med/Enterate "Inicio") 
