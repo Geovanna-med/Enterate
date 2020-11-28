@@ -36,11 +36,17 @@ Graduado del bachillerato.
 #### Información básica
 
 Edad: 17-22 años
+
 Género: Femenino-Masculino
+
 Títulos de trabajo: Depende del estudiante
+
 Nivel de experiencia: Depende del estudiante
+
 Educación: Preescolar, primaria, secundaria y bachillerato concluidos
+
 Localización: México
+
 Escenario: fuera de la escuela
 
 #### Información adicional
@@ -56,11 +62,17 @@ Cualquier estudiante de primer o segundo año de bachillerato.
 #### Información básica
 
 Edad: 14-18 años
+
 Género: Femenino-Masculino
+
 Títulos de trabajo: Depende del estudiante
+
 Nivel de experiencia: Depende del estudiante
+
 Educación: Preescolar, primaria y secundaria terminados, bachillerato sin concluir
+
 Localización: México
+
 Escenario: preparatoria
 
 #### Información adicional
@@ -76,11 +88,17 @@ Estudiante de secundaria.
 #### Información básica
 
 Edad: 11-16 años
+
 Género: Femenino-Masculino
+
 Títulos de trabajo: Depende del estudiante
+
 Nivel de experiencia: Depende del estudiante
+
 Educación: Preescolar y primaria terminados, secundaria sin concluir
+
 Localización: México
+
 Escenario: secundaria
 
 #### Información adicional
