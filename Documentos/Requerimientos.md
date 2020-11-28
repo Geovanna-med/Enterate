@@ -21,7 +21,6 @@ Basados en encuestas realizadas a los usuarios, se definieron los requerimientos
 | RF001   |     Seleccionar apartados    |
 | :---        |    :----:   |
 | Prioridad | Alta |
-| :---        | :---        |
 | Descripción |Cada carrera contará con una sección individual para que el usuario pueda diferenciar la información de una carrera de la información de otra. |
 
 ***
@@ -29,7 +28,6 @@ Basados en encuestas realizadas a los usuarios, se definieron los requerimientos
 | RF002   |     Descargar documentos    |  
 | :---        |    :----:   |
 | Prioridad | Media |
-| :---        | :---        |
 | Descripción |Posibilidad de descarga de los documentos oficiales ofrecidos por la UADY de las carreras relacionadas a la informática y computación. |
 
 ***
