@@ -8,14 +8,14 @@ también incluimos fechas límite para que todas las tareas fueran entregadas en
 imprevisto que pudiera presentarse. 
 
 ### •	Microsoft Teams: 
-Esta aplicación la usamos para realizar reuniones de equipo y donde se dio la comunicación más directa; organizamos videoconferencias grupales para comentar, decidir y 
+Esta aplicación la usamos para realizar reuniones de equipo y es donde se dio la comunicación más directa; organizamos videoconferencias grupales para comentar, decidir y 
 estructurar los aspectos más importantes del proyecto, y además compartimos varios archivos, lo que nos resultó de suma utilidad en la elaboración de esta primera parte 
 del proyecto.
 
 ### •	WhatsApp: 
 Esta aplicación de mensajería fue nuestro medio de comunicación principal; nos permitió mantener una comunicación mucho más rápida y eficaz, cosa que resultó muy útil para 
 ponernos de acuerdo en puntos más generales del proyecto, organizar los días que tendríamos reuniones virtuales, consultar nuestras dudas ante el equipo, compartir 
-información importante, pedir puntos de vista de los compañeros, recordar fechas, entre otras cosas, así que, en resumen, facilitó bastante nuestro trabajo porque facilitó 
+información importante, pedir puntos de vista de los compañeros, recordar fechas, entre otras cosas, así que, en resumen, agilizó bastante nuestro trabajo porque facilitó 
 nuestra comunicación.
 
 ### •	GitHub: 
