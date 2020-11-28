@@ -1,4 +1,6 @@
-# Herramientas
+# Herramientas e investigación
+
+## Herramientas
 
 ### •	Trello: 
 Es un tablero virtual; lo utilizamos para organizar las tareas que debíamos realizar y asignarlas a los diferentes integrantes del equipo (todo de manera equitativa), 
