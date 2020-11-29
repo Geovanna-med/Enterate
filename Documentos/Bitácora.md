@@ -1,27 +1,46 @@
 ## Bitácora
 
-***
-| 26 de octubre de 2020 | 13:00 a 13:40 |
-| :--- | :--- |
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Bitácora</title>
+</head>
+<style type="text/css">
+	table, th, td {
+		border: 1px solid black;
+		border-collapse: collapse;
+	}
+</style>
+<body>
+<table>
+	<tr>
+		<td colspan="2" align="center">Fecha</td>
+		<td>Hora</td>
+	</tr>
+	<tr>
+		<td colspan="3" align="center">Descripción</td>
+	</tr>
+	<tr>
+		<td align="center">Tareas</td>
+		<td align="center">Participantes</td>
+		<td align="center">Fecha límite de entrega</td>
+	</tr>
+	<tr>
+		<td>Descripción de tareas</td>
+		<td>Nombre de participantes</td>
+		<td>Fecha</td>
+	</tr>
+	<tr>
+		<td colspan="3" align="center">Producto resultante</td>
+	</tr>
+	<tr>
+		<td colspan="3">Descripción</td>
+	</tr>
 
-| **Primera reunión.**
-Esta reunión tuvo como principal objetivo el conocernos como integrantes de equipo, establecer la forma en que íbamos a trabajar, las herramientas que estaríamos utilizando para el proceso de trabajo y dar posibles ideas de los que quisiéramos hacer como producto. |
-
-| :--- | :---| :---|
-| Tareas	| Participantes	| Fecha límite de entrega |
-
-| :--- | :---| :---|
-| Encontrar una metodología de trabajo. | Establecer herramientas para el proceso de trabajo. 
-Ideas del producto. | Luz García 
-Geovanna Medina
-Wilder Turriza
-Hugo Pérez	| Las ideas del producto a realizar se deben entregar el 30 de octubre de 2020 a través de WhatsApp. |
-
-| :--- |
-| Producto Resultante |
-| Se aplicará la metodología Scrum en el trabajo. Se estableció WhatsApp y Teams como herramientas de comunicación, Trello para la organización de tareas y GitKraken para la edición de repositorios. |
-
-***
+</table>
+</body>
+</html>
 
 
 
