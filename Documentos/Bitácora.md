@@ -19,22 +19,25 @@
 		<td align="center">Fecha límite de entrega</td>
 	</tr>
 	<tr>
-		<td><p>Encontrar una metodología de trabajo.</p>
+		<td valign="top"><p>Encontrar una metodología de trabajo.</p>
 <p>Establecer herramientas para el proceso de trabajo.</p>
 <p>Ideas del producto.</p>
 </td>
-		<td><p>Luz García</p> 
-<p>Geovanna Medina
-<p>Wilder Turriza</p>
-<p>Hugo Pérez</p>
+		<td valign="top" width="200">
+			<ul>
+				<li>Luz García</li>
+				<li>Geovanna Medina</li>
+				<li>Wilder Turriza</li>
+				<li>Hugo Pérez</li>
+			</ul>
 </td>
-		<td>Las ideas del producto a realizar se deben entregar el 30 de octubre de 2020 a través de WhatsApp.</td>
+		<td valign="top">Las ideas del producto a realizar se deben entregar el 30 de octubre de 2020 a través de WhatsApp.</td>
 	</tr>
 	<tr>
 		<td colspan="3" align="center">Producto resultante</td>
 	</tr>
 	<tr>
-		<td colspan="3">Se aplicará la metodología Scrum en el trabajo. Se estableció WhatsApp y Teams como herramientas de comunicación, Trello para la organización de tareas y GitKraken para la edición de repositorios.</td>
+		<td colspan="3" valign="top">Se aplicará la metodología Scrum en el trabajo. Se estableció WhatsApp y Teams como herramientas de comunicación, Trello para la organización de tareas y GitKraken para la edición de repositorios.</td>
 	</tr>
 
 </table>
