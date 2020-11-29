@@ -42,6 +42,8 @@
 
 </table>
 
+***
+
 <table>
 	<tr>
 		<td colspan="2" align="center">Fecha</td>
