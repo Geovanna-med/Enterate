@@ -22,7 +22,7 @@ Presentación de la información correspondiente.
 
   **5.1	Flujo principal**
 
-  P1. El flujo de eventos principal se inicia cuando actor ingresa a la página.
+  P1. El flujo de eventos principal se inicia cuando el actor ingresa a la página.
 
   P2. El sistema presenta al actor las futuras carreras que ofrece la UADY en el área de informática y computación. Las carreras presentadas son:
 
@@ -56,7 +56,7 @@ Presentación de la información correspondiente.
 
    - Descarga de archivos.
 
-  P5. El actor selecciona el apartado el apartado de su interés.
+  P5. El actor selecciona el apartado de su interés.
 
   P6. El sistema le presentará la información correspondiente.
   
@@ -76,7 +76,7 @@ Cualquier futuro aspirante de la UADY.
 
 **3.	Pre-condiciones**
 
-El futuro aspirante de la UADY deberá de ingresar al apartado correspondiente para la descarga de documentos de cualquier carrera.
+El futuro aspirante de la UADY deberá ingresar al apartado correspondiente para la descarga de documentos de cualquier carrera.
 
 **4.	Post-condiciones**
 
