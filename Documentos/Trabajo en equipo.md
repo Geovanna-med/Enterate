@@ -5,6 +5,7 @@ equipo para que sea realizada. Al igual, se les agregaba un puntaje entre 1 y 3 
 final poder sumar las tareas y medir su nivel de contribucion de cada integrante de una manera objetiva.
 
 <p align="center">
+  
 |    Tareas    |    Responsable    |   Dificultad   | Puntuación | 
 |--------------|-------------------|----------------|------------|
 |   Objetivos  | Luz y Wilder      |   Baja         |0.5 y 0.5   |
@@ -27,6 +28,7 @@ final poder sumar las tareas y medir su nivel de contribucion de cada integrante
 | Exposición de la presentación | Luz y Geovanna | Alta | 1.5 y 1.5 |
 | Competencias generales | Edwin | Alta | 3 |
 | Competencias específicas | Edwin | Alta | 3 |
+
 </p>
 
 Haciendo así un total de contribución (en donde 10 es el máximo) de:
