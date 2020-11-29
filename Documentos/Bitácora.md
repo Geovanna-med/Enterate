@@ -10,7 +10,7 @@
 	</tr>
 	<tr>
 		<td colspan="3"> Primera reunión.
-<Br>Esta reunión tuvo como principal objetivo el conocernos como integrantes de equipo, establecer la forma en que íbamos a trabajar, las herramientas que estaríamos utilizando para el proceso de trabajo y dar posibles ideas de los que quisiéramos hacer como producto.
+<Br>Esta reunión tuvo como principal objetivo el conocernos como integrantes de equipo, establecer la forma en que íbamos a trabajar, las herramientas que estaríamos utilizando para el proceso de trabajo y dar posibles ideas de lo que quisiéramos hacer como producto.
 </td>
 	</tr>
 	<tr>
@@ -121,8 +121,8 @@
 		<td colspan="3" align="center">Producto resultante</td>
 	</tr>
 	<tr>
-		<td colspan="3" valign="top">Se definió loa herramienta Entérate como nuestro producto.
-		<Br>Entre todos los participantes se establecieron los requerimientos, la clasificación de estos y de igual manera se implantó la idea de una encuesta para definir según nuestros usuarios la mejor forma de presentarle la información. El formato de la encuesta se quedó a cargo de Luz García. Los demás elementos se estarían hablando por WhatsApp.
+		<td colspan="3" valign="top">Se definió la herramienta Entérate como nuestro producto.
+		<Br>Entre todos los participantes se establecieron los requerimientos, la clasificación de éstos y de igual manera se implantó la idea de una encuesta para definir según nuestros usuarios la mejor forma de presentarles la información. El formato de la encuesta se quedó a cargo de Luz García. Los demás elementos se estarían hablando por WhatsApp.
 		</td>
 	</tr>
 
@@ -137,7 +137,7 @@
 	</tr>
 	<tr>
 		<td colspan="3"> Reunión de reorganización. 
-<Br>Esta reunión se realizó con el objetivo del poner al tanto de todo el proyecto a los nuevos integrantes del equipo. De igual forma se dividieron las tareas restantes, dando explicación de lo que iría en cada una de ellas.
+<Br>Esta reunión se realizó con el objetivo de poner al tanto de todo el proyecto a los nuevos integrantes del equipo. De igual forma se dividieron las tareas restantes, dando explicación de lo que iría en cada una de ellas.
 </td>
 	</tr>
 	<tr>
@@ -182,7 +182,7 @@
 	</tr>
 	<tr>
 		<td colspan="3"> Reunión para aclarar dudas. 
-<Br>Se realizó una reunión general en el grupo FIS MERIDA-UMT en donde los profesores presentaron una nueva lista de cotejo y la explicación de esta, al igual se presentaron dudas por parte del equipo y de otros equipos. Después de la reunión, nuestro Product Owner se encargó de la división de tareas a partir de esta nueva lista.
+<Br>Se realizó una reunión general en el grupo FIS MERIDA-UMT en donde los profesores presentaron una nueva lista de cotejo y la explicación de ésta, también se presentaron dudas por parte del equipo y de los otros que había en la reunión; luego de la misma, nuestro Product Owner se encargó de la división de tareas a partir de esta nueva lista.
 </td>
 	</tr>
 	<tr>
@@ -203,13 +203,13 @@
 				<li>Edwin Martín</li>
 			</ul>
 </td>
-		<td valign="top">La división de tareas tiene fecha límite hasta el 24 de noviembre de 2020. Y la mayoría las tareas hasta el 27 de noviembre de 2020. </td>
+		<td valign="top">La división de tareas tiene fecha límite hasta el 24 de noviembre de 2020. Y la mayoría de las tareas hasta el 27 de noviembre de 2020. </td>
 	</tr>
 	<tr>
 		<td colspan="3" align="center">Producto resultante</td>
 	</tr>
 	<tr>
-		<td colspan="3" valign="top">División de tareas por parte del Product Owner, tomando en cuenta las tareas que ya teníamos y sus posibles modificaciones. Este listado se puede encontrar en el apartado <a href="https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Trabajo%20en%20equipo.md">Trabajo en equipo</a> </td>
+		<td colspan="3" valign="top">División de tareas por parte del Product Owner, tomando en cuenta las tareas que ya teníamos y sus posibles modificaciones. Éste listado se puede encontrar en el apartado <a href="https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Trabajo%20en%20equipo.md">Trabajo en equipo</a> </td>
 	</tr>
 
 </table>
@@ -250,7 +250,7 @@
 		<td colspan="3" align="center">Producto resultante</td>
 	</tr>
 	<tr>
-		<td colspan="3" valign="top">Se realizará cambios en la presentación de los requerimientos, de igual manera se despejaron las dudas de los integrantes del equipo. </td>
+		<td colspan="3" valign="top">Se realizarán cambios en la presentación de los requerimientos, de igual manera se despejaron las dudas de los integrantes del equipo. </td>
 	</tr>
 
 </table>
