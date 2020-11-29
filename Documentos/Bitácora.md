@@ -2,16 +2,6 @@
 
 <!DOCTYPE html>
 <html>
-<head>
-	<meta charset="utf-8">
-	<title>Bitácora</title>
-</head>
-<style type="text/css">
-	table, th, td {
-		border: 1px solid black;
-		border-collapse: collapse;
-	}
-</style>
 <body>
 <table>
 	<tr>
