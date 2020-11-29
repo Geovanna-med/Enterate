@@ -4,9 +4,7 @@ Para este apartado realizamos una tabla en donde se mostraban las tareas a reali
 equipo para que sea realizada. Al igual, se les agregaba un puntaje entre 1 y 3 para determinar la dificultad de la tarea (siendo 1 baja, 2 media y 3 alta) para al 
 final poder sumar las tareas y medir su nivel de contribucion de cada integrante de una manera objetiva.
 
-
-  
-<p align="center">|    Tareas    |    Responsable    |   Dificultad   | Puntuación | 
+|    Tareas    |    Responsable    |   Dificultad   | Puntuación | 
 |--------------|-------------------|----------------|------------|
 |   Objetivos  | Luz y Wilder      |   Baja         |0.5 y 0.5   |
 |   Usuarios   | Luz               |   Media        |   2        |
@@ -27,7 +25,7 @@ final poder sumar las tareas y medir su nivel de contribucion de cada integrante
 | Presentación del avance | Geovanna y Luz | Alta | 1.5 y 1.5 |
 | Exposición de la presentación | Luz y Geovanna | Alta | 1.5 y 1.5 |
 | Competencias generales | Edwin | Alta | 3 |
-| Competencias específicas | Edwin | Alta | 3 |</p>
+| Competencias específicas | Edwin | Alta | 3 |
 
 Haciendo así un total de contribución (en donde 10 es el máximo) de:
 
