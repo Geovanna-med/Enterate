@@ -1,6 +1,7 @@
 ## Bitácora
 
 | 26 de octubre de 2020 | 13:00 a 13:40 |
+| :--------------------- | :------------- |
 | **Primera reunión.**
 Esta reunión tuvo como principal objetivo el conocernos como integrantes de equipo, establecer la forma en que íbamos a trabajar, las herramientas que estaríamos utilizando para el proceso de trabajo y dar posibles ideas de los que quisiéramos hacer como producto. |
 | Tareas	| Participantes	| Fecha límite de entrega |
