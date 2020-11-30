@@ -33,11 +33,11 @@ final poder sumar las tareas y medir su nivel de contribucion de cada integrante
 
 Haciendo así un total de contribución (en donde 10 es el máximo) de:
 
-* Geovanna: 10 = 100%
-* Wilder: 9.5 = 95%
-* Luz: 9.5 = 95%
-* Carlos: 8 = 80%
-* Edwin: 8 = 80%
+* Geovanna: 10 = 22%
+* Wilder: 9.5 = 21%
+* Luz: 9.5 = 21% 
+* Carlos: 8 = 18%
+* Edwin: 8 = 18% 
 
 
 
