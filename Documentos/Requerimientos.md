@@ -20,7 +20,7 @@ Basados en encuestas realizadas a los usuarios, se definieron los requerimientos
 | RF001   |     Seleccionar apartados    |
 | :---        |    :----:   |
 | Prioridad | Alta |
-| Descripción |Cada carrera contará con una sección individual para que el usuario pueda diferenciar la información de una carrera de la información de otra. |
+| Descripción |Cada carrera contará con una sección individual para que el usuario pueda diferenciar la información de una carrera de la información de la otra. |
 
 ***
 
@@ -40,13 +40,13 @@ Basados en encuestas realizadas a los usuarios, se definieron los requerimientos
 
 ***
 
-| RNF002   |   Usar Hipervínculos  |  
+| RNF002   |   Usar hipervínculos  |  
 |----------|:-------------:|
-| Descripción |se usarán para posibilitar la descarga de cualquier documento oficial necesario. |
+| Descripción |Se usarán para posibilitar la descarga de cualquier documento oficial necesario. |
 
 ***
 
-| RNF003   |   Usar Botones  |  
+| RNF003   |   Usar botones  |  
 |----------|:-------------:|
 | Descripción | Botones con hipervínculos los cuales permitirán que se despliegue una sección distinta, que corresponderá a cada una de las carreras relacionadas a la informática y computación de la UADY. |
   
@@ -58,9 +58,9 @@ Nosotros decidimos usar el método MoSCoW, ya que es una técnica que da más va
 
 |Must	| Should	| Could	| Won’t |
 |-----|---------|-------|-------|
-|•	El usuario tendrá una definición de cada una de las distintas carreras relacionadas a la informática y computación ofrecidas por la UADY.|•	El usuario podrá conocer las opiniones y consejos de estudiantes de semestres avanzados de dichas carreras.|	•	Lenguaje de programacion: HTML|	•	Botones con hipervínculos: permitirán que se despliegue una sección distinta, que corresponderá a cada una de las carreras relacionadas a la informática y computación de la UADY.
+|•	El usuario tendrá una definición de cada una de las distintas carreras relacionadas a la informática y computación ofrecidas por la UADY.|•	El usuario podrá conocer las opiniones y consejos de estudiantes de semestres avanzados de dichas carreras.|	•	Lenguaje de programación: HTML|	•	Botones con hipervínculos: permitirán que se despliegue una sección distinta, que corresponderá a cada una de las carreras relacionadas a la informática y computación de la UADY.
 |•	El usuario tendrá acceso a la malla curricular y al plan de estudios de las distintas carreras.|•	El usuario podrá conocer el área de trabajo a la que tendría acceso.|•	Hipervínculos: se usarán para posibilitar la descarga de cualquier documento oficial necesario.	|	|
-|  •	El usuario podrá conocer el perfil de ingreso y egreso de cada una de las licenciaturas e ingenierías.  | •	Secciones: cada carrera contará con una sección individual para que el usuario pueda diferenciar la información de una carrera de la información otra. |	
+|  •	El usuario podrá conocer el perfil de ingreso y egreso de cada una de las licenciaturas e ingenierías.  | •	Secciones: cada carrera contará con una sección individual para que el usuario pueda diferenciar la información de una carrera de la información de la otra. |	
 |•	Toda la información se presentará en una página web.| |	||
 
 ***
