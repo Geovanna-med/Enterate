@@ -35,10 +35,10 @@ Utilizamos este editor para redactar y editar todo el texto que se subíamos a n
 
 Se realizó una encuesta a un grupo de personas que aún no han ingresado a la universidad, esto con el objetivo de saber qué medio de información sería el más adecuado para la presentación de la herramienta Entérate. A continuación, se darán los resultados de las cuatro preguntas más relevantes. 
 
-<img src="https://github.com/Geovanna-med/Enterate/blob/Wilder-Turriza/Im%C3%A1genes/Gr%C3%A1ficos/Elegir_carrera.jpg" height="70"> 
-<img src="https://github.com/Geovanna-med/Enterate/blob/Wilder-Turriza/Im%C3%A1genes/Gr%C3%A1ficos/Carrera_Problemas.jpg" height="70">
-<img src="https://github.com/Geovanna-med/Enterate/blob/Wilder-Turriza/Im%C3%A1genes/Gr%C3%A1ficos/Carreras.jpg" width="25" height="70">
-<img src="https://github.com/Geovanna-med/Enterate/blob/Wilder-Turriza/Im%C3%A1genes/Gr%C3%A1ficos/Gr%C3%A1fico_Medios.jpg" height="70">
+<img src="https://github.com/Geovanna-med/Enterate/blob/Wilder-Turriza/Im%C3%A1genes/Gr%C3%A1ficos/Elegir_carrera.jpg" height="159"> 
+<img src="https://github.com/Geovanna-med/Enterate/blob/Wilder-Turriza/Im%C3%A1genes/Gr%C3%A1ficos/Carrera_Problemas.jpg" height="150">
+<img src="https://github.com/Geovanna-med/Enterate/blob/Wilder-Turriza/Im%C3%A1genes/Gr%C3%A1ficos/Carreras.jpg" width="25" height="150">
+<img src="https://github.com/Geovanna-med/Enterate/blob/Wilder-Turriza/Im%C3%A1genes/Gr%C3%A1ficos/Gr%C3%A1fico_Medios.jpg" height="150">
 
 ***
 | [Anterior](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Casos%20de%20uso.md "Anterior") 
