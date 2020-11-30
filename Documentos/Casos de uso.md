@@ -48,7 +48,7 @@ Presentación de la información correspondiente.
 
    - Campo laboral.
 
-   - Reconocimientos y Acreditaciones.
+   - Reconocimientos y acreditaciones.
 
    - Experiencias estudiantiles.
 
