@@ -3,6 +3,7 @@
 <!DOCTYPE html>
 <html>
 <body>
+<p align="center">
 <table>
 	<tr>
 		<td colspan="2" align="center">26 de octubre de 2020</td>
@@ -298,6 +299,7 @@
 	</tr>
 
 </table>
+</p>
 </body>
 </html>
 
