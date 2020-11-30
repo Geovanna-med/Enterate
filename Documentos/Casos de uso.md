@@ -61,6 +61,7 @@ Presentación de la información correspondiente.
   P6. El sistema le presentará la información correspondiente.
   
   **5.2	Limitación y excepción**
+  
   L1. El sistema estará únicamente en idioma español.
   
  ------------
