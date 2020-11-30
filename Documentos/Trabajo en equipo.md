@@ -1,8 +1,10 @@
 # Trabajo en equipo
 
-Para este apartado realizamos una tabla en donde se mostraban las tareas a realizar, como se especificaban en la lista de cotejo, y se les asignaba a los integrantes del 
-equipo para que sea realizada. Al igual, se les agregaba un puntaje entre 1 y 3 para determinar la dificultad de la tarea (siendo 1 baja, 2 media y 3 alta) para al 
+Para este apartado realizamos una tabla en donde se muestran las tareas a realizar, como se especificaban en la lista de cotejo, y se les asignó a los integrantes del 
+equipo para que sea realizada. También se les agregó un puntaje de entre 1 y 3 para determinar la dificultad de la tarea (siendo 1=baja, 2=media y 3=alta) para al 
 final poder sumar las tareas y medir su nivel de contribucion de cada integrante de una manera objetiva.
+
+<center>
 
 |    Tareas    |    Responsable    |   Dificultad   | Puntuación | 
 |--------------|-------------------|----------------|------------|
@@ -26,6 +28,8 @@ final poder sumar las tareas y medir su nivel de contribucion de cada integrante
 | Exposición de la presentación | Luz y Geovanna | Alta | 1.5 y 1.5 |
 | Competencias generales | Edwin | Alta | 3 |
 | Competencias específicas | Edwin | Alta | 3 |
+
+</center>
 
 Haciendo así un total de contribución (en donde 10 es el máximo) de:
 
