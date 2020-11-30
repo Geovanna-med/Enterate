@@ -25,7 +25,19 @@ Basados en encuestas realizadas a los usuarios, se definieron los requerimientos
   - Lenguaje de programación: HTML
   - Hipervínculos: se usarán para posibilitar la descarga de cualquier documento oficial necesario. 
   - Botones con hipervínculos: permitirán que se despliegue una sección distinta, que corresponderá a cada una de las carreras relacionadas a la informática y computación de la UADY. 
+  
+  ------------------------------------------------------------------------------
+  
+  ## Priorización de requerimientos 
+Nosotros decidimos usar el método MoSCoW, ya que es una técnica que da más valor y prioridad a las características del futuro producto que tienen un mayor valor comercial.
 
+|Must	| Should	| Could	| Won’t |
+|-----|---------|-------|-------|
+|•	El usuario tendrá una definición de cada una de las distintas carreras relacionadas a la informática y computación ofrecidas por la UADY.|•	El usuario podrá conocer las opiniones y consejos de estudiantes de semestres avanzados de dichas carreras.|	•	Lenguaje de programacion: HTML|	•	Botones con hipervínculos: permitirán que se despliegue una sección distinta, que corresponderá a cada una de las carreras relacionadas a la informática y computación de la UADY.
+|•	El usuario tendrá acceso a la malla curricular y al plan de estudios de las distintas carreras.|•	El usuario podrá conocer el área de trabajo a la que tendría acceso.|•	Hipervínculos: se usarán para posibilitar la descarga de cualquier documento oficial necesario.	|	|
+|  •	El usuario podrá conocer el perfil de ingreso y egreso de cada una de las licenciaturas e ingenierías.  | •	Secciones: cada carrera contará con una sección individual para que el usuario pueda diferenciar la información de una carrera de la información otra. |	
+|•	Toda la información se presentará en una página web.| |	||
+			
 ***
 | [Anterior](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Usuarios%20y%20clientes.md "Anterior") 
 | [Inicio](https://github.com/Geovanna-med/Enterate "Inicio") 
