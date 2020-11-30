@@ -44,7 +44,7 @@ Se realizó una encuesta a un grupo de personas que aún no han ingresado a la u
 ---------------------------------------------------------------------
 ## Presentación
 
-Link de la presentación que nos sirvió de apoyo: [https://view.genial.ly/5fc192ac295ceb0d0e30afd2/presentation-proyecto-enterate](https://view.genial.ly/5fc192ac295ceb0d0e30afd2/presentation-proyecto-enterate)
+Link de la presentación que nos sirvió de apoyo: [Presentación en Genially](https://view.genial.ly/5fc192ac295ceb0d0e30afd2/presentation-proyecto-enterate)
 
 ***
 | [Anterior](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Casos%20de%20uso.md "Anterior") 
