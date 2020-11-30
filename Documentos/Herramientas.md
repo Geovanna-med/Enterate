@@ -30,7 +30,7 @@ Es una aplicación diseñada para poder generar, a través de plantillas predete
 ### •	Sublime Text: 
 Utilizamos este editor para redactar y editar todo el texto que se subíamos a nuestro repositorio.
 
-### * Genially:
+### • Genially:
 Esta herramienta nos sirvio para poder realizar la presentación de apoyo que nos sirvio para presentar nuestro avance del producto a los maestros y a la clase
 
 ***
