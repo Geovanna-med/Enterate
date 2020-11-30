@@ -60,7 +60,8 @@ Presentación de la información correspondiente.
 
   P6. El sistema le presentará la información correspondiente.
   
-  **5.2	Flujo Alternativo y de excepción**
+  **5.2	Limitación y excepción**
+  L1. El sistema estará únicamente en idioma español.
   
  ------------
 
@@ -99,7 +100,7 @@ __5.	Flujo de eventos__
 ## Diagrama de casos de uso
 
 <p align="center">
-  <img src="https://github.com/Geovanna-med/Enterate/blob/main/Im%C3%A1genes/WhatsApp%20Image%202020-11-26%20at%203.45.03%20PM.jpeg">
+  <img src="https://github.com/Geovanna-med/Enterate/blob/Wilder-Turriza/Im%C3%A1genes/Diagrama%20de%20casos%20de%20uso.jpg">
 </p>
 
 
