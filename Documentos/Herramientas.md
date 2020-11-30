@@ -30,6 +30,7 @@ Es una aplicación diseñada para poder generar, a través de plantillas predete
 ### •	Sublime Text: 
 Utilizamos este editor para redactar y editar todo el texto que se subíamos a nuestro repositorio.
 
+***
 
 ## Encuesta
 
