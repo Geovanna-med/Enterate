@@ -26,11 +26,11 @@ Presentación de la información correspondiente.
 
   P2. El sistema presenta al actor las futuras carreras que ofrece la UADY en el área de informática y computación. Las carreras presentadas son:
 
-   - Licenciatura en ingeniería de software.
+   - Licenciatura en Ingeniería de Software.
 
-   - Licenciatura en ingeniería en computación.
+   - Licenciatura en Ingeniería en Computación.
 
-   - Licenciatura en ciencias de la computación.
+   - Licenciatura en Ciencias de la Computación.
   
    - Licenciatura en Administración de Tecnologías de la Información.
 
