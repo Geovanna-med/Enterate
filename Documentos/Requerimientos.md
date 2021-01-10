@@ -25,7 +25,41 @@ Basados en encuestas realizadas a los usuarios, se definieron los requerimientos
 
 ***
 
-| RF002   |     Descargar documentos    |  
+| RF002   |     Visualizar Licenciatura en Ingeniería de Software    |
+| :---        |    :----:   |
+| Prioridad | Alta |
+| Descripción |La carrera contará con diversos apartados para que el usuario
+pueda ubicarse en la información que desee. |
+
+***
+
+| RF003   |     Visualizar Licenciatura en Ingeniería en Computación    |
+| :---        |    :----:   |
+| Prioridad | Alta |
+| Descripción |La carrera contará con diversos apartados para que el usuario
+pueda ubicarse en la información que desee. |
+
+***
+
+| RF004   |     Visualizar Licenciatura en Ciencias de la Computación    |
+| :---        |    :----:   |
+| Prioridad | Alta |
+| Descripción |La carrera contará con diversos apartados para que el usuario
+pueda ubicarse en la información que desee. |
+
+***
+
+| RF005   |     Visualizar Licenciatura Administración de Tecnologías de la
+Información
+    |
+| :---        |    :----:   |
+| Prioridad | Alta |
+| Descripción |La carrera contará con diversos apartados para que el usuario
+pueda ubicarse en la información que desee. |
+
+***
+
+| RF006   |     Descargar documentos    |  
 | :---        |    :----:   |
 | Prioridad | Media |
 | Descripción |Posibilidad de descarga de los documentos oficiales ofrecidos por la UADY de las carreras relacionadas a la informática y computación. |
