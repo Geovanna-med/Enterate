@@ -22,15 +22,15 @@ Presentación de la información correspondiente.
 
   **5.1	Flujo principal**
 
-  P1. El flujo de eventos principal se inicia cuando actor ingresa a la página.
+  P1. El flujo de eventos principal se inicia cuando el actor ingresa a la página.
 
   P2. El sistema presenta al actor las futuras carreras que ofrece la UADY en el área de informática y computación. Las carreras presentadas son:
 
-   - Licenciatura en ingeniería de software.
+   - Licenciatura en Ingeniería de Software.
 
-   - Licenciatura en ingeniería en computación.
+   - Licenciatura en Ingeniería en Computación.
 
-   - Licenciatura en ciencias de la computación.
+   - Licenciatura en Ciencias de la Computación.
   
    - Licenciatura en Administración de Tecnologías de la Información.
 
@@ -38,33 +38,222 @@ Presentación de la información correspondiente.
 
   P4. El sistema mostrará los apartados correspondientes a la carrera. Estos apartados son:
 
-   - Competencias deseables.
-
-   - Perfil de egreso.
+   - ¿En qué consiste?
 
    - Plan de estudios.
 
-   - Asignaturas optativas.
+   - Malla Curricular.
 
-   - Campo laboral.
+   - Niveles de dificultad.
 
-   - Reconocimientos y Acreditaciones.
+   - Oferta de trabajo.
 
-   - Experiencias estudiantiles.
+   - Experiencias. 
 
-   - Información de contacto.
 
-   - Descarga de archivos.
-
-  P5. El actor selecciona el apartado el apartado de su interés.
+  P5. El actor selecciona el apartado de su interés.
 
   P6. El sistema le presentará la información correspondiente.
   
-  **5.2	Flujo Alternativo y de excepción**
+  **5.2	Limitación y excepción**
+  
+  L1. El sistema estará únicamente en idioma español.
   
  ------------
 
-### CU02: Descargar documentos
+### CU02: Visualizar Licenciatura en Ingeniería de Software
+ **1. Descripción**
+
+La carrera contará con diversos apartados para que el usuario pueda ubicarse en la información que desee.
+
+**2. Actores**
+
+Cualquier futuro aspirante de la UADY.
+
+**3. Pre-condiciones**
+
+El futuro aspirante de la UADY deberá darle clic a la carrera licenciatura en ingeniería de software desde la página principal de la página web.
+
+**4. Post-condiciones**
+
+Presentación de la información correspondiente.
+
+**5. Flujo de eventos**
+
+  **5.1 Flujo principal**
+
+  P1. El flujo de eventos principal se inicia cuando el actor selecciona la carrera licenciatura en ingeniería de software.
+
+  P2. El sistema mostrará los apartados correspondientes a la carrera. Estos apartados son:
+
+   - ¿En qué consiste?
+
+   - Plan de estudios.
+
+   - Malla Curricular.
+
+   - Niveles de dificultad.
+
+   - Oferta de trabajo.
+
+   - Experiencias. 
+
+
+  P3. El actor selecciona el apartado de su interés.
+
+  P4. El sistema le presentará la información correspondiente.
+  
+  **5.2 Limitación y excepción**
+  
+  L1. El sistema estará únicamente en idioma español.
+  
+ ------------
+
+### CU03: Visualizar Licenciatura en Ingeniería en Computación
+ **1. Descripción**
+
+La carrera contará con diversos apartados para que el usuario pueda ubicarse en la información que desee.
+
+**2. Actores**
+
+Cualquier futuro aspirante de la UADY.
+
+**3. Pre-condiciones**
+
+El futuro aspirante de la UADY deberá darle clic a la carrera licenciatura en ingeniería en computación desde la página principal de la página web.
+
+**4. Post-condiciones**
+
+Presentación de la información correspondiente.
+
+**5. Flujo de eventos**
+
+  **5.1 Flujo principal**
+
+  P1. El flujo de eventos principal se inicia cuando el actor selecciona la carrera Licenciatura en Ingeniería en Computación.
+
+  P2. El sistema mostrará los apartados correspondientes a la carrera. Estos apartados son:
+
+   - ¿En qué consiste?
+
+   - Plan de estudios.
+
+   - Malla Curricular.
+
+   - Niveles de dificultad.
+
+   - Oferta de trabajo.
+
+   - Experiencias. 
+
+
+  P3. El actor selecciona el apartado de su interés.
+
+  P4. El sistema le presentará la información correspondiente.
+  
+  **5.2 Limitación y excepción**
+  
+  L1. El sistema estará únicamente en idioma español.
+  
+ ------------
+
+### CU04: Visualizar Licenciatura en Ciencias de la Computación
+ **1. Descripción**
+
+La carrera contará con diversos apartados para que el usuario pueda ubicarse en la información que desee.
+
+**2. Actores**
+
+Cualquier futuro aspirante de la UADY.
+
+**3. Pre-condiciones**
+
+El futuro aspirante de la UADY deberá darle clic a la carrera licenciatura en ciencias de la computación desde la página principal de la página web.
+
+**4. Post-condiciones**
+
+Presentación de la información correspondiente.
+
+**5. Flujo de eventos**
+
+  **5.1 Flujo principal**
+
+  P1. El flujo de eventos principal se inicia cuando el actor selecciona la carrera licenciatura en ciencias de la computación.
+
+  P2. El sistema mostrará los apartados correspondientes a la carrera. Estos apartados son:
+
+   - ¿En qué consiste?
+
+   - Plan de estudios.
+
+   - Malla Curricular.
+
+   - Niveles de dificultad.
+
+   - Oferta de trabajo.
+
+   - Experiencias. 
+
+
+  P3. El actor selecciona el apartado de su interés.
+
+  P4. El sistema le presentará la información correspondiente.
+  
+  **5.2 Limitación y excepción**
+  
+  L1. El sistema estará únicamente en idioma español.
+  
+ ------------
+
+### CU05: Visualizar Licenciatura en Administración de Tecnologías de la Información
+ **1. Descripción**
+
+La carrera contará con diversos apartados para que el usuario pueda ubicarse en la información que desee.
+
+**2. Actores**
+
+Cualquier futuro aspirante de la UADY.
+
+**3. Pre-condiciones**
+
+El futuro aspirante de la UADY deberá darle clic a la carrera Licenciatura en Administración de Tecnologías de la Información desde la página principal de la página web.
+
+**4. Post-condiciones**
+
+Presentación de la información correspondiente.
+
+**5. Flujo de eventos**
+
+  **5.1 Flujo principal**
+
+  P1. El flujo de eventos principal se inicia cuando el actor selecciona la carrera Administración de Tecnologías de la Información.
+
+  P2. El sistema mostrará los apartados correspondientes a la carrera. Estos apartados son:
+
+   - ¿En qué consiste?
+
+   - Plan de estudios.
+
+   - Malla Curricular.
+
+   - Niveles de dificultad.
+
+   - Oferta de trabajo.
+
+   - Experiencias. 
+
+
+  P3. El actor selecciona el apartado de su interés.
+
+  P4. El sistema le presentará la información correspondiente.
+  
+  **5.2 Limitación y excepción**
+  
+  L1. El sistema estará únicamente en idioma español.
+  
+ ------------
+
+### CU06: Descargar documentos
 
 **1.	Descripción**
 
@@ -76,7 +265,7 @@ Cualquier futuro aspirante de la UADY.
 
 **3.	Pre-condiciones**
 
-El futuro aspirante de la UADY deberá de ingresar al apartado correspondiente para la descarga de documentos de cualquier carrera.
+El futuro aspirante de la UADY deberá ingresar al apartado correspondiente para la descarga de documentos de cualquier carrera.
 
 **4.	Post-condiciones**
 
@@ -86,22 +275,25 @@ __5.	Flujo de eventos__
 
   **5.1	Flujo principal**
 
-  P1. El flujo de eventos principal se inicia cuando actor ingresa al apartado de descargas.
+  P1. El flujo de eventos principal se inicia cuando actor ingresa al apartado de Plan de estudios o Malla curricular..
 
-  P2. El sistema presenta los archivos disponibles para su descarga.
+  P2. El sistema presenta la información del apartado y un botón para la visualización del archivo en formato PDF.
 
-  P3. El actor selecciona el archivo que desea descargar haciendo clic sobre él.
+  P3. El actor da clic sobre el botón. 
 
-  P4. El sistema inicia la descarga del archivo.
+  P4. El sistema lo redirecciona al PDF del archivo.
+
+  P5. El actor da clic sobre el botón de descarga en el PDF. 
+
+  P6. El sistema inicia la descarga del archivo.
 
 ------------
 
 ## Diagrama de casos de uso
 
-<img src="https://github.com/Geovanna-med/Enterate/blob/main/Im%C3%A1genes/WhatsApp%20Image%202020-11-26%20at%203.45.03%20PM.jpeg">
-
-
-
+<p align="center">
+  <img src="https://github.com/Geovanna-med/Enterate/blob/Wilder-Turriza/Im%C3%A1genes/Diagrama%20de%20casos%20de%20uso.jpg">
+</p>
 
 
 
