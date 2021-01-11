@@ -302,7 +302,7 @@
 <table>
 	<tr>
 		<td colspan="2" align="center">01 de diciembre de 2020</td>
-		<td align="center">17:00-19:00</td>
+		<td align="center">17:00 a 19:00</td>
 	</tr>
 	<tr>
 		<td colspan="3"> Sprint Retrospective
@@ -343,7 +343,7 @@
 <table>
 	<tr>
 		<td colspan="2" align="center">08 de diciembre de 2020</td>
-		<td align="center">18:00-19:20</td>
+		<td align="center">18:00 a 19:20</td>
 	</tr>
 	<tr>
 		<td colspan="3"> Sprint Planning
@@ -385,7 +385,7 @@
 <table>
 	<tr>
 		<td colspan="2" align="center">11  de diciembre de 2020</td>
-		<td align="center">18:00-20:00</td>
+		<td align="center">18:00 a 20:00</td>
 	</tr>
 	<tr>
 		<td colspan="3"> Sprint Backlog
@@ -427,7 +427,7 @@
 <table>
 	<tr>
 		<td colspan="2" align="center">15  de diciembre de 2020</td>
-		<td align="center">19:30-21:00</td>
+		<td align="center">19:30 a 21:00</td>
 	</tr>
 	<tr>
 		<td colspan="3"> Reunión con el profesor José Luis
@@ -442,7 +442,7 @@
 	</tr>
 	<tr>
 		<td valign="top"> Modificación del diagrama de casos de uso con include  por Carlos. 
-		División de un caso de uso y aumento de requerimientos por Wilder.
+		<Br> División de un caso de uso y aumento de requerimientos por Wilder.
    
 </td>
 
@@ -471,7 +471,7 @@
 <table>
 	<tr>
 		<td colspan="2" align="center">17  de diciembre de 2020</td>
-		<td align="center">18:30-19:20</td>
+		<td align="center">18:30 a 19:20</td>
 	</tr>
 	<tr>
 		<td colspan="3"> Ver prototipo de diseño de apartados
@@ -512,7 +512,7 @@
 <table>
 	<tr>
 		<td colspan="2" align="center">08 de enero de 2021</td>
-		<td align="center">14:00-15:00</td>
+		<td align="center">14:00 a 15:00</td>
 	</tr>
 	<tr>
 		<td colspan="3"> Revisión del Sprint 2
