@@ -1,5 +1,7 @@
 ## Bitácora
 
+### Primer Sprint
+
 <!DOCTYPE html>
 <html>
 <body>
@@ -299,6 +301,9 @@
 
 ***
 
+### Segundo Sprint
+
+
 <table>
 	<tr>
 		<td colspan="2" align="center">01 de diciembre de 2020</td>
@@ -548,6 +553,7 @@
 	</tr>
 
 </table>
+</p>
 </body>
 </html>
 
