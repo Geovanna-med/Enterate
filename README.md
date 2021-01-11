@@ -16,6 +16,7 @@
   - [Usuarios y clientes](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Usuarios%20y%20clientes.md)
   - [Requerimientos](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Requerimientos.md)
   - [Casos de uso](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Casos%20de%20uso.md)
+  - [Diseño](https://github.com/Geovanna-med/Enterate/blob/Geovanna/Documentos/Dise%C3%B1o.md#dise%C3%B1o)
   - [Herramientas e investigación](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Herramientas.md)
   - [Proceso y roles](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Proceso%20de%20trabajo.md)
   - [Trabajo en equipo](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Trabajo%20en%20equipo.md)
