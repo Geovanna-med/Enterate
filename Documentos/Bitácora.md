@@ -258,9 +258,6 @@
 
 ***
 
-</table>
-<br>
-
 <table>
 	<tr>
 		<td colspan="2" align="center">28 de noviembre de 2020</td>
@@ -321,7 +318,7 @@
 		<td valign="top"> 
 		</td>
 
-		<td valign="top" width="200">
+<td valign="top" width="200">
 			<ul>
 				<li>Luz García</li>
 				<li>Geovanna Medina</li>
@@ -363,7 +360,7 @@
 		<td valign="top"> Creación del Product Backlog por Geovanna 
 		</td>
 
-		<td valign="top" width="200">
+<td valign="top" width="200">
 			<ul>
 				<li>Luz García</li>
 				<li>Geovanna Medina</li>
@@ -405,7 +402,7 @@
 		<td valign="top"> División de tareas en el tablero de Trello   
 		</td>
 
-		<td valign="top" width="200">
+<td valign="top" width="200">
 			<ul>
 				<li>Luz García</li>
 				<li>Geovanna Medina</li>
@@ -447,9 +444,9 @@
 		<td valign="top"> Modificación del diagrama de casos de uso con include  por Carlos. 
 		División de un caso de uso y aumento de requerimientos por Wilder.
    
-		</td>
+</td>
 
-		<td valign="top" width="200">
+<td valign="top" width="200">
 			<ul>
 				<li>Luz García</li>
 				<li>Geovanna Medina</li>
@@ -488,10 +485,9 @@
 	</tr>
 	<tr>
 		<td valign="top">Aumento en el prototipo por Geovanna
-   
 		</td>
 
-		<td valign="top" width="200">
+<td valign="top" width="200">
 			<ul>
 				<li>Luz García</li>
 				<li>Geovanna Medina</li>
@@ -531,10 +527,9 @@
 	</tr>
 	<tr>
 		<td valign="top"> Subir los documentos correspondientes de cada integrante al repositorio.
-   
-		</td>
+	</td>
 
-		<td valign="top" width="200">
+<td valign="top" width="200">
 			<ul>
 				<li>Luz García</li>
 				<li>Geovanna Medina</li>
