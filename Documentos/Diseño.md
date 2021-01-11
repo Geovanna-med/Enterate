@@ -33,7 +33,7 @@
 </p>
 
 ### * Prototipo
-<https://github.com/Geovanna-med/Enterate/blob/Geovanna/Im%C3%A1genes/INDEX.html>
+<https://wilderturriza.github.io/>
 
 Se puede encontrar el documento de figma en el siguiente link:
 <https://www.figma.com/file/mXfvxomTXrSCUme6z1G8zJ/Ent%C3%A9rate?node-id=0%3A1>
