@@ -362,7 +362,8 @@
 		<td align="center">Fecha límite de entrega</td>
 	</tr>
 	<tr>
-		<td valign="top"> Creación del Product Backlog por Geovanna 
+		<td valign="top"> Creación del Product Backlog por Geovanna
+			<Br> Modificación del requerimiento "Descargar archivos" por Wilder
 		</td>
 
 <td valign="top" width="200">
