@@ -1,4 +1,35 @@
  # Diseño de la página
  
- ### Maquetado
+ ### * Maquetado
  
+<p align="center">
+  <img src="https://github.com/Geovanna-med/Enterate/blob/Geovanna/Im%C3%A1genes/maquetado.png">
+</p>
+
+### * Diseño
+
+<p align="center">
+  <img src="https://github.com/Geovanna-med/Enterate/blob/Geovanna/Im%C3%A1genes/dise%C3%B1o%201.png">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Geovanna-med/Enterate/blob/Geovanna/Im%C3%A1genes/dise%C3%B1o%202.png">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Geovanna-med/Enterate/blob/Geovanna/Im%C3%A1genes/dise%C3%B1o%203.png">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Geovanna-med/Enterate/blob/Geovanna/Im%C3%A1genes/dise%C3%B1o%204.png">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Geovanna-med/Enterate/blob/Geovanna/Im%C3%A1genes/dise%C3%B1o%205.png">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Geovanna-med/Enterate/blob/Geovanna/Im%C3%A1genes/dise%C3%B1o%206.png">
+</p>
+
+### * Prototipo
