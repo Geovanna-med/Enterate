@@ -31,6 +31,11 @@
 |------------|---------|----------------|
 |•	Se comunica en español en forma oral y escrita en sus intervenciones profesionales y en su vida personal, utilizando correctamente el idioma |	Completo |	Cada uno de los integrantes del equipo demostró hacer uso correcto del lenguaje en español, ya sea de forma oral o escrita. El proyecto se llevó a cabo en el idioma español y no se mostró deficiencia alguna durante la elaboración del mismo (con lo que respecta al uso de la lengua).|
 |•	Usa las TIC en sus intervenciones profesionales y en su vida personal de manera permanente y responsable |	Completo |	En esta etapa de diseño el equipo utilizo algunas herramientas digitales para la construcción del maquetado y del prototipo una de estas herramientas fue “Visual Studio Code” y “Balsamiq”|
+|•	Gestiona el conocimiento en sus intervenciones profesionales y en su vida personal, de manera pertinente.	|Completo|El equipo se aseguró que la pagina web este diseñada de tal manera que sea atractiva para el usuario, así como fácil de interactuar con esta.|
+|•	Trabaja con otros ambientes multi, inter y transdisciplinarios de manera cooperativa |	Completo	|El equipo se adecuó a los diferentes roles que les fueron asignados a cada uno de los integrantes. Todos cumplieron en forma, independientemente que el trabajo asignado pudiera ser de carácter interdisciplinario. |
+|•	Toma de decisiones en su práctica profesional y personal, de manera responsable |	Completo|	En este sprint fue considerada cada uno de las opiniones los integrantes del equipo, para tener un buen diseño de que será nuestra pagina web.|
+
+
 
 
 
