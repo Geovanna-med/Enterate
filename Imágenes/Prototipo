@@ -1,1 +1,128 @@
-| [Prototipo](https://wilderturriza.github.io/ "Prototipo") 
+<¡DOCTYPE html>
+<html>
+  <head>
+    
+    <meta http-equiv="Content-Type" content="text/html;charset="UTD-8">
+    <title>ENTÉRATE</title>
+    <style>
+    *{
+      margin:0;
+      padding:0;
+    }
+    a:link, a:visited,a:hover,a:active {
+      color:#FFF;
+      font-size:14.5px;
+      text-decoration: none;
+    }
+    body {
+      font-family: Century Gothic;
+      font-size: 15px;
+    }
+    h1 {
+      color: #000000;
+      font-size: 24px;
+      margin-left: 30px;
+      margin-right: 30px;
+      margin-top: 15px;
+    }
+    ul {
+      list-style-type: square;
+    }
+    #cabecera {
+      color:white;
+      background-color:rgb(6, 18, 59);
+      font-family: Autumn in November;
+      font-style:inherit;
+      font-size:45px;
+      text-align: center;
+    }
+    #contenedor {
+      margin:0 auto;
+      width:1100px;
+      height:350px;
+    }
+    #contenido {
+      background-color:rgba(255, 255, 255, 0.219);
+      float:left;
+      height:600px;
+      padding:10px;
+      width:860px;
+    }
+    #menu {
+      float:left;
+      height:580px;
+      padding:20px;
+      width:180px;
+      }
+    </style>
+  </head>
+  
+  <body bgcolor=#E0A911>
+    <div id="cabecera">
+        <font size="4px"><br></font>
+        <p><b>Proyecto Entérate</b></p>
+        <font size="1px"><br></font>
+        <marquee bgcolor=#06123B><font color="white" face="Century Gothic" size="4px"><b>¿Lo sabías todo?</b></font></marquee>
+        <font size="4px"><br></font>
+    </div>
+    <div id="contenedor">
+      <div id="menu">
+        <ul>
+          
+          
+          <input id="spoiler" type="checkbox" /><label for="spoiler">Licenciatura en Ingeniería de Software</label><div class="spoiler" style="text-align:center;font-style:normal"><a href="Aldiko Classic.html">¿En qué consiste?</a><br><br><a href="Estilo APA.html">Plan de estudios</a><br><br><a href="Google Drive.html">Malla curricular</a><br><br><a href="Khan Academy.html">Niveles de dificultad</a><br><br><a href="Microsoft Word.html">Oferta de trabajo</a><br><br><a href="Microsoft Word.html">Experiencias</a></div></br>
+          <input id="spoiler2" type="checkbox" /><label for="spoiler2">Licenciatura en Ingeniería en Computación</label><div class="spoiler" style="text-align:center;font-style:normal;color: #333;"><a href="Acrobat Reader DC.html">¿En qué consiste?</a><br><br><a href="Microsoft Office.html">Plan de estudios</a><br><br><a href="Vegas Pro 17.html">Malla curricular</a><br><br><a href="Antivirus.html">Niveles de dificultad</a><br><br><a href="WinRAR.html">Oferta de trabajo</a><br><br><a href="Microsoft Word.html">Experiencias</a></div></br> 
+          <input id="spoiler3" type="checkbox" /><label for="spoiler3">Licenciatura en Ciencias de la Computación</label><div class="spoiler" style="text-align:center;font-style:normal;color: #87CEFA;"><a href="Aldiko Classic.html">¿En qué consiste?</a><br><br><a href="Estilo APA.html">Plan de estudios</a><br><br><a href="Google Drive.html">Malla curricular</a><br><br><a href="Khan Academy.html">Niveles de dificultad</a><br><br><a href="Microsoft Word.html">Oferta de trabajo</a><br><br><a href="Microsoft Word.html">Experiencias</a></div></br> 
+          <input id="spoiler4" type="checkbox" /><label for="spoiler4">Licenciatura en Administración de Tecnologías de la Información</label><div class="spoiler" style="text-align:center;font-style:normal;color: #87CEFA;"><a href="Aldiko Classic.html">¿En qué consiste?</a><br><br><a href="Estilo APA.html">Plan de estudios</a><br><br><a href="Google Drive.html">Malla curricular</a><br><br><a href="Khan Academy.html">Niveles de dificultad</a><br><br><a href="Microsoft Word.html">Oferta de trabajo</a><br><br><a href="Microsoft Word.html">Experiencias</a></div></br>
+          
+          <style type="text/css">input[id^="spoiler"]{
+            display: none;
+            }
+            input[id^="spoiler"] + label {
+              display: block;
+              width: 150px;
+              margin: 0 auto;
+              padding: 5px 15px;
+              background: rgb(0,0,0);
+              color: #FFF;
+              text-align: center;
+              font-size: 18px;
+              border-radius: 8px;
+              cursor: pointer;
+              transition: all .6s;
+            }
+            input[id^="spoiler"]:checked + label {
+              color: #FFF;
+              background: #363636;
+            }
+            input[id^="spoiler"] ~ .spoiler {
+              width: 90%;
+              height: 0;
+              overflow: hidden;
+              opacity: 0;
+              margin: 10px auto 0; 
+              padding: 10px; 
+              background: #071C5F;
+              color: #FFF;
+              border-radius: 8px;
+              transition: all .6s;
+            }
+            input[id^="spoiler"]:checked + label + .spoiler{
+              height: auto;
+              opacity: 1;
+              padding: 10px;
+            }
+          </style>
+          
+        
+        </ul>
+      </div>
+      <div id="contenido">
+        <center><IMG Src="https://github.com/WilderTurriza/WilderTurriza.github.io/blob/main/PI.png" WIDTH=100% HEIGHT=70%>
+        <h1>¿Sabías que el 46% de los estudiantes que los eligen una carrera no saben en qué cosiste ésta completamente?</h1></center>
+        <br>
+        <div style="text-align: justify; margin-left: 30px;margin-right: 30px;"><p>En esta parte iría información bonita para convencer al aspirante de leer nuestra página y no irse a la primera. La información que se encuentra en el título es sólo una idea de lo que podría ir. No es real.</p></div>
+      </div>
+    </div>
+  </body>
+</html>
