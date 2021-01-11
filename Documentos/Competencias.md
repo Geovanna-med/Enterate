@@ -1,5 +1,7 @@
 # Competencias de la asignatura
 
+## • Primer Sprint
+
 ### Genéricas 
 
 |Competencia |	Status |	Justificación |
@@ -21,9 +23,14 @@
 |•	Identifica los factores humanos inmersos en los procesos de desarrollo de software que inciden en el éxito de proyectos de software.	| Completo	| Cada integrante cumplió con la responsabilidad de cada tarea asignada para que de esa manera el proyecto fuera avanzando paso a paso según los tiempos establecidos.  |
 |•	Utiliza adecuadamente la terminología propia de la ingeniería de software en sus intervenciones profesionales. |	Completo	| Durante el proyecto se usaron varios conceptos específicos que se utilizan en el proceso de la construcción del software, por lo que cada integrante se fue familiarizando con cada uno de esos conceptos.|
 
+## • Segundo Sprint
 
+### Genéricas 
 
-
+|Competencia |	Status |	Justificación |
+|------------|---------|----------------|
+|•	Se comunica en español en forma oral y escrita en sus intervenciones profesionales y en su vida personal, utilizando correctamente el idioma |	Completo |	Cada uno de los integrantes del equipo demostró hacer uso correcto del lenguaje en español, ya sea de forma oral o escrita. El proyecto se llevó a cabo en el idioma español y no se mostró deficiencia alguna durante la elaboración del mismo (con lo que respecta al uso de la lengua).|
+|•	Usa las TIC en sus intervenciones profesionales y en su vida personal de manera permanente y responsable |	Completo |	En esta etapa de diseño el equipo utilizo algunas herramientas digitales para la construcción del maquetado y del prototipo una de estas herramientas fue “Visual Studio Code” y “Balsamiq”|
 
 
 
