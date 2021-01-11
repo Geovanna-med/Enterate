@@ -4,7 +4,6 @@ Para este apartado realizamos una tabla en donde se muestran las tareas a realiz
 equipo para que sea realizada. También se les agregó un puntaje de entre 1 y 3 para determinar la dificultad de la tarea (siendo 1=baja, 2=media y 3=alta) para al 
 final poder sumar las tareas y medir su nivel de contribucion de cada integrante de una manera objetiva.
 
-<center>
 
 |    Tareas    |    Responsable    |   Dificultad   | Puntuación | 
 |--------------|-------------------|----------------|------------|
@@ -42,7 +41,6 @@ final poder sumar las tareas y medir su nivel de contribucion de cada integrante
 
 
 
-</center>
 
 Haciendo así un total de contribución de:
 
@@ -51,24 +49,6 @@ Haciendo así un total de contribución de:
 * Luz: 23.91%
 * Carlos: 14.49%
 * Edwin: 15.94%
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ***
 | [Anterior](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Proceso%20de%20trabajo.md "Anterior") 

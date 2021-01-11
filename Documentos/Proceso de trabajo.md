@@ -65,13 +65,13 @@ entregas de los avances del proyecto.
 --------------------------------------------
 
 ### Control de calidad
-* Como ya mencionamos anteriormente, nosotros utilizamos el tablero de Trello para organizarnos y dividir tareas; en este, agregamos dos pestañas llamadas "En revisión" y "Verificado" que nos sirvieron para realmente corroborar que los documentos estaban en orden y que cumplian con los requisitos establecidos por la lista de cotejo, para, despues de esto, poder subirlo al repositorio.
+* Como ya mencionamos anteriormente, nosotros utilizamos el tablero de Trello para organizarnos y dividir tareas; en éste, agregamos dos pestañas llamadas "En revisión" y "Verificado" que nos sirvieron para realmente corroborar que los documentos estaban en orden y que cumplían con los requisitos establecidos por la lista de cotejo para, después de esto, poder subirlo al repositorio.
 
-* Utilizamos diferentes ramas en el repositorio paera que cada integrante pudiera subir su parte a su rama y despues hiciera un pull request a la rama main, para verificar que lo que se estuviera subiendo al repositorio fuera correcto y no cause ningun conflicto o problema inesperado a la hora de subirlo. Despues, el encargado del repositorio (Wilder) lo verificaba, y si era correcto, hacia Merge entre las ramas, si no lo era, lo comentaba al responsable de la tarea para que lo corrigiera.
+* Utilizamos diferentes ramas en el repositorio para que cada integrante pudiera subir su parte a su rama y despues hiciera un pull request a la rama main, para poder verificar que lo que se estuviera subiendo al repositorio fuera correcto y no causara ningún conflicto o problema inesperado a la hora de subirlo. Después el encargado del repositorio (Wilder) lo verificaba, y si era correcto, hacia Merge entre las ramas, y si no lo era, lo comentaba al responsable de la tarea para que lo corrigiera.
 
-* Nuestra compañera Luz, era la encargada de verificar que no hubieran faltas de ortografia o redacción en alguno de los documentos, y si las habia, le comentaba al responsable de la tarea y le daba unos pequeño tips sobre lo que podría poner.
+* Nuestra compañera Luz era la encargada de verificar que no hubieran faltas de ortografía o redacción en alguno de los documentos, y si las había, le comentaba al responsable de la tarea y le daba unos pequeño tips sobre lo que podría poner o las corregía ella directamente.
 
-* Todos los documentos en su proceso de elaboración, eran compartidos en el grupo de WhatsApp para que se analizaran grupalmente y se corrigieran en caso de errores
+* Todos los documentos en su proceso de elaboración eran compartidos en el grupo de WhatsApp para que se analizaran grupalmente y se corrigieran en caso de errores
 
 
 ***

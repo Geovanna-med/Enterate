@@ -30,13 +30,21 @@ Es una aplicación diseñada para poder generar, a través de plantillas predete
 ### •	Sublime Text: 
 Utilizamos este editor para redactar y editar todo el texto que se subíamos a nuestro repositorio.
 
+### • Genially:
+Esta herramienta la usamos para poder realizar la presentación de apoyo que nos sirvió para presentar nuestro avance del producto a los maestros y a la clase.
+
 ***
 
 ## Encuesta
 
-Se realizó una encuesta a un grupo de personas que aún no han ingresado a la universidad, esto con el objetivo de saber qué medio de información sería el más adecuado para la presentación de la herramienta Entérate. A continuación, se darán los resultados de las cuatro preguntas más relevantes. 
+Se realizó una encuesta a un grupo de personas que aún no han ingresado a la universidad, esto con el objetivo de saber qué medio de información sería el más adecuado para la presentación de la herramienta Entérate. A continuación, se darán los resultados de las cuatro preguntas más relevantes: 
 
 <img src="https://github.com/Geovanna-med/Enterate/blob/Wilder-Turriza/Im%C3%A1genes/Gr%C3%A1ficos/Elegir_carrera.jpg" height="500"> <img src="https://github.com/Geovanna-med/Enterate/blob/Wilder-Turriza/Im%C3%A1genes/Gr%C3%A1ficos/Carrera_Problemas.jpg" height="500"> <img src="https://github.com/Geovanna-med/Enterate/blob/Wilder-Turriza/Im%C3%A1genes/Gr%C3%A1ficos/Carreras.jpg" height="500"> <img src="https://github.com/Geovanna-med/Enterate/blob/Wilder-Turriza/Im%C3%A1genes/Gr%C3%A1ficos/Gr%C3%A1fico_Medios.jpg" height="500">
+
+---------------------------------------------------------------------
+## Presentación
+
+Link de la presentación que nos sirvió de apoyo: [Presentación en Genially](https://view.genial.ly/5fc192ac295ceb0d0e30afd2/presentation-proyecto-enterate)
 
 ***
 | [Anterior](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Casos%20de%20uso.md "Anterior") 
