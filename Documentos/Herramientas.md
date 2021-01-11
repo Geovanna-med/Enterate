@@ -27,6 +27,12 @@ Esta herramienta de git la utilizamos para poder editar, crear ramas y así evit
 ### •	Survey Heart: 
 Es una aplicación diseñada para poder generar, a través de plantillas predeterminadas, diferentes tipos de formularios, cuestionarios o encuestas para cualquier rama que se necesite. Esta nos sirvió para realizar una encuesta que nos permitiera recabar información sobre necesidades específicas del usuario y donde le gustaría más que estas le fueran presentadas.
 
+### • Visual Studio Code: 
+Esta aplicación nos sirvio para poder desarrollar poco a poco nuestra página, escribiendo el código en HTML en este y de esta manera, corriendola en la aplicación pra poder visualizarla en los diferentes navegadores y sistemas operativos.
+
+### • Figma:
+Esta herramienta esta diseñada para el diseño UI y UX. Nosotros la utilizamos para poder crear el diseño de nuestra página web y poder plasmar nuestras ideas en algo más visual para facilitar más adelante la generación del código.
+
 ### •	Sublime Text: 
 Utilizamos este editor para redactar y editar todo el texto que se subíamos a nuestro repositorio.
 
