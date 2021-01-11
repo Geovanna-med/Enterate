@@ -292,7 +292,7 @@ __5.	Flujo de eventos__
 ## Diagrama de casos de uso
 
 <p align="center">
-  <img src="https://github.com/Geovanna-med/Enterate/blob/Wilder-Turriza/Im%C3%A1genes/Diagrama%20de%20casos%20de%20uso.jpg">
+  <img src="https://github.com/Geovanna-med/Enterate/blob/main/Im%C3%A1genes/Diagrama%20de%20casos%20de%20uso.jpeg">
 </p>
 
 
