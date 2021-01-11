@@ -28,16 +28,29 @@ final poder sumar las tareas y medir su nivel de contribucion de cada integrante
 | Exposición de la presentación | Luz y Geovanna | Alta | 1.5 y 1.5 |
 | Competencias generales | Edwin | Alta | 3 |
 | Competencias específicas | Edwin | Alta | 3 |
+| Maquetado de la pagina | Geovanna| Baja | 1 |
+| Diseño de la página | Geovanna | Alta | 3 | 
+| Prototipo de la página | Luz | Alta | 3 |
+| Refinamiento de requerimientos | Wilder | Media | 2 |
+|Refinamiento de casos de uso| Wilder| Media | 2 |
+| Refinamiento del diagrama de casos de uso| Carlos| Media| 2|
+| Segunda presentación de avances | Geovanna y Luz| Alta | 1 y 2|
+|Segunda Exposición de la presentación| Geovanna y Luz| Alta| 1.5 y 1.5|
+|Bitacoras del segundo spint| Wilder|Bajo| 1|
+|Competencias generales y especificas|Edwin|Alta|3|
+|Orden del repositorio|Wilder |Bajo|1|
+
+
 
 </center>
 
-Haciendo así un total de contribución (en donde 10 es el máximo) de:
+Haciendo así un total de contribución de:
 
-* Geovanna: 10 
-* Wilder: 9.5
-* Luz: 9.5
-* Carlos: 8
-* Edwin: 8
+* Geovanna: 23.18%
+* Wilder: 22.46%
+* Luz: 23.91%
+* Carlos: 14.49%
+* Edwin: 15.94%
 
 
 
