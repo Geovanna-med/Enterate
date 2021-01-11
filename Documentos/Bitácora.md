@@ -299,7 +299,6 @@
 	</tr>
 
 </table>
-</p>
 </body>
 </html>
 
