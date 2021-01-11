@@ -299,6 +299,260 @@
 	</tr>
 
 </table>
+
+***
+
+<table>
+	<tr>
+		<td colspan="2" align="center">01 de diciembre de 2020</td>
+		<td align="center">17:00-19:00</td>
+	</tr>
+	<tr>
+		<td colspan="3"> Sprint Retrospective
+		<Br> Nos reunimos para saber que salió bien en este sprint y que se puede mejorar, contamos experiencias, las interacciones que tuvimos con el equipo, los procesos y herramientas que usamos y podemos utilizar, fuimos más abiertos para tener una mejor confianza y así mejor el proceso de trabajo.
+</td>
+	</tr>
+	<tr>
+		<td align="center">Tareas</td>
+		<td align="center">Participantes</td>
+		<td align="center">Fecha límite de entrega</td>
+	</tr>
+	<tr>
+		<td valign="top"> 
+		</td>
+
+		<td valign="top" width="200">
+			<ul>
+				<li>Luz García</li>
+				<li>Geovanna Medina</li>
+				<li>Wilder Turriza</li>
+				<li>Carlos Requena</li>
+				<li>Edwin Martín</li>
+			</ul>
+</td>
+		<td valign="top"></td>
+	</tr>
+	<tr>
+		<td colspan="3" align="center">Producto resultante</td>
+	</tr>
+	<tr>
+		<td colspan="3" valign="top">Confianza en equipo y mejora en la realización de procesos.</td>
+	</tr>
+
+</table>
+
+***
+
+<table>
+	<tr>
+		<td colspan="2" align="center">08 de diciembre de 2020</td>
+		<td align="center">18:00-19:20</td>
+	</tr>
+	<tr>
+		<td colspan="3"> Sprint Planning
+		<Br> Se habló del trabajo que se realizará en el segundo sprint, se contempla la lista de cotejo y los casos de uso, al igual se hablaron de una modificación en el requerimiento Descargar Archivos. Todo esto para la creación del Product Backlog.
+
+</td>
+	</tr>
+	<tr>
+		<td align="center">Tareas</td>
+		<td align="center">Participantes</td>
+		<td align="center">Fecha límite de entrega</td>
+	</tr>
+	<tr>
+		<td valign="top"> Creación del Product Backlog por Geovanna 
+		</td>
+
+		<td valign="top" width="200">
+			<ul>
+				<li>Luz García</li>
+				<li>Geovanna Medina</li>
+				<li>Wilder Turriza</li>
+				<li>Carlos Requena</li>
+				<li>Edwin Martín</li>
+			</ul>
+</td>
+		<td valign="top">10 de diciembre 2020 </td>
+	</tr>
+	<tr>
+		<td colspan="3" align="center">Producto resultante</td>
+	</tr>
+	<tr>
+		<td colspan="3" valign="top">Creación del Product Backlog de este sprint y modificación del requerimiento Descargar archivos.</td>
+	</tr>
+
+</table>
+
+***
+
+<table>
+	<tr>
+		<td colspan="2" align="center">11  de diciembre de 2020</td>
+		<td align="center">18:00-20:00</td>
+	</tr>
+	<tr>
+		<td colspan="3"> Sprint Backlog
+		<Br> División de los elementos del Product Backlog, se habló de cómo se podrían realizar y que se debía entregar. 
+
+</td>
+	</tr>
+	<tr>
+		<td align="center">Tareas</td>
+		<td align="center">Participantes</td>
+		<td align="center">Fecha límite de entrega</td>
+	</tr>
+	<tr>
+		<td valign="top"> División de tareas en el tablero de Trello   
+		</td>
+
+		<td valign="top" width="200">
+			<ul>
+				<li>Luz García</li>
+				<li>Geovanna Medina</li>
+				<li>Wilder Turriza</li>
+				<li>Carlos Requena</li>
+				<li>Edwin Martín</li>
+			</ul>
+</td>
+		<td valign="top">Fechas en el tablero de Trello </td>
+	</tr>
+	<tr>
+		<td colspan="3" align="center">Producto resultante</td>
+	</tr>
+	<tr>
+		<td colspan="3" valign="top">División de tareas y priorización.</td>
+	</tr>
+
+</table>
+
+***
+
+<table>
+	<tr>
+		<td colspan="2" align="center">15  de diciembre de 2020</td>
+		<td align="center">19:30-21:00</td>
+	</tr>
+	<tr>
+		<td colspan="3"> Reunión con el profesor José Luis
+		<Br> Nos reunimos con el profesor para hablar de algunos aspectos de la segunda entrega y un pequeño Feedback. 
+
+</td>
+	</tr>
+	<tr>
+		<td align="center">Tareas</td>
+		<td align="center">Participantes</td>
+		<td align="center">Fecha límite de entrega</td>
+	</tr>
+	<tr>
+		<td valign="top"> Modificación del diagrama de casos de uso con include  por Carlos. 
+		División de un caso de uso y aumento de requerimientos por Wilder.
+   
+		</td>
+
+		<td valign="top" width="200">
+			<ul>
+				<li>Luz García</li>
+				<li>Geovanna Medina</li>
+				<li>Wilder Turriza</li>
+				<li>Carlos Requena</li>
+				<li>Edwin Martín</li>
+			</ul>
+</td>
+		<td valign="top">23 de diciembre de 2020</td>
+	</tr>
+	<tr>
+		<td colspan="3" align="center">Producto resultante</td>
+	</tr>
+	<tr>
+		<td colspan="3" valign="top">Modificación de diagrama y división de casos de uso.</td>
+	</tr>
+
+</table>
+
+***
+
+<table>
+	<tr>
+		<td colspan="2" align="center">17  de diciembre de 2020</td>
+		<td align="center">18:30-19:20</td>
+	</tr>
+	<tr>
+		<td colspan="3"> Ver prototipo de diseño de apartados
+		<Br> Se realizó una reunión para presentar un prototipo de diseño para los apartados.
+</td>
+	</tr>
+	<tr>
+		<td align="center">Tareas</td>
+		<td align="center">Participantes</td>
+		<td align="center">Fecha límite de entrega</td>
+	</tr>
+	<tr>
+		<td valign="top">Aumento en el prototipo por Geovanna
+   
+		</td>
+
+		<td valign="top" width="200">
+			<ul>
+				<li>Luz García</li>
+				<li>Geovanna Medina</li>
+				<li>Wilder Turriza</li>
+				<li>Carlos Requena</li>
+				<li>Edwin Martín</li>
+			</ul>
+</td>
+		<td valign="top">28 de diciembre de 2020</td>
+	</tr>
+	<tr>
+		<td colspan="3" align="center">Producto resultante</td>
+	</tr>
+	<tr>
+		<td colspan="3" valign="top">El prototipo de diseño aceptado para la página web. </td>
+	</tr>
+
+</table>
+
+***
+
+<table>
+	<tr>
+		<td colspan="2" align="center">08 de enero de 2021</td>
+		<td align="center">14:00-15:00</td>
+	</tr>
+	<tr>
+		<td colspan="3"> Revisión del Sprint 2
+		<Br> Nos reunimos tres días antes de la entrega del sprint, esto con el objetivo de un checklist de todas las tareas para saber cuáles son las que faltan y si los responsables tienen dudas.
+
+</td>
+	</tr>
+	<tr>
+		<td align="center">Tareas</td>
+		<td align="center">Participantes</td>
+		<td align="center">Fecha límite de entrega</td>
+	</tr>
+	<tr>
+		<td valign="top"> Subir los documentos correspondientes de cada integrante al repositorio.
+   
+		</td>
+
+		<td valign="top" width="200">
+			<ul>
+				<li>Luz García</li>
+				<li>Geovanna Medina</li>
+				<li>Wilder Turriza</li>
+				<li>Carlos Requena</li>
+				<li>Edwin Martín</li>
+			</ul>
+</td>
+		<td valign="top">10 de enero de 2021</td>
+	</tr>
+	<tr>
+		<td colspan="3" align="center">Producto resultante</td>
+	</tr>
+	<tr>
+		<td colspan="3" valign="top">Revisión general de todo el proyecto, verificación de tareas y aclaración de dudas.</td>
+	</tr>
+
+</table>
 </body>
 </html>
 
