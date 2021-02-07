@@ -54,13 +54,13 @@ final poder sumar las tareas y medir su nivel de contribucion de cada integrante
 <body>
 <table>
 	<tr>
-		<td colspan="4" align="center"> **Artículo** </td>
+		<td colspan="4" align="center"><b>Artículo<b></td>
 	</tr>
 	<tr>
-		<td align="center">Tarea</td>
-		<td align="center">Responsable</td>
-		<td align="center">Dificultad</td>
-		<td align="center">Puntaje</td>
+		<td align="center"><b>Tarea</b></td>
+		<td align="center"><b>Responsable</b></td>
+		<td align="center"><b>Dificultad</b></td>
+		<td align="center"><b>Puntaje</b></td>
 	</tr>
 	<tr>	
 		<td align="center">Resumen</td>
@@ -111,7 +111,7 @@ final poder sumar las tareas y medir su nivel de contribucion de cada integrante
 		<td align="center">2</td>
 	</tr>
 	<tr>	
-		<td colspan="4" align="center">Vídeo</td>
+		<td colspan="4" align="center"><b>Vídeo</b></td>
 	</tr>
 	<tr>
 		<td align="center">Presentación (Material)</td>
@@ -132,7 +132,7 @@ final poder sumar las tareas y medir su nivel de contribucion de cada integrante
 		<td align="center">3</td>
 	</tr>
 	<tr>	
-		<td colspan="4" align="center">Página web</td>
+		<td colspan="4" align="center"><b>Página web</b></td>
 	</tr>
 	<tr>	
 		<td align="center" rowspan="3">Programación</td>
@@ -173,7 +173,7 @@ final poder sumar las tareas y medir su nivel de contribucion de cada integrante
 		<td align="center">1</td>
 	</tr>
 	<tr>	
-		<td colspan="4" align="center">Tareas</td>
+		<td colspan="4" align="center"><b>Tareas</b></td>
 	</tr>
 	<tr>
 		<td align="center">Competencias</td>
