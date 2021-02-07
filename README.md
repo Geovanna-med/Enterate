@@ -21,4 +21,5 @@
   - [Proceso y roles](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Proceso%20de%20trabajo.md)
   - [Trabajo en equipo](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Trabajo%20en%20equipo.md)
   - [Competencias de la asignatura](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Competencias.md)
+  - [Productos finales](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Productos%20Finales.md#productos-finales)
   - [Bitácora](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Bit%C3%A1cora.md)
