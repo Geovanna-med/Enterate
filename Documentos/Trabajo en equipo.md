@@ -54,7 +54,7 @@ final poder sumar las tareas y medir su nivel de contribucion de cada integrante
 <body>
 <table>
 	<tr>
-		<td colspan="4" align="center">Artículo</td>
+		<td colspan="4" align="center"> **Artículo** </td>
 	</tr>
 	<tr>
 		<td align="center">Tarea</td>
