@@ -222,14 +222,17 @@ contribución</td>
 </body>
 </html>
 
+## Contribución
 
-Haciendo así un total de contribución de:
+En la gráfica 1.1 Comparativa de contribución nos proyecta el puntaje de contribución de cada integrante en comparación de todos los Sprint. Al sumar todos estos puntajes obtenemos un total de 134 puntos, los cuales se toman como el 100% del proyecto, de esta forma se pueden obtener los porcentajes de contribución total del proyecto de cada integrante, estos porcentajes se muestran en la gráfica 1.2 contribución final.
 
-* Geovanna: 23.18%
-* Wilder: 22.46%
-* Luz: 23.91%
-* Carlos: 14.49%
-* Edwin: 15.94%
+<p align="center">
+  <img src="https://github.com/Geovanna-med/Enterate/blob/main/Im%C3%A1genes/Comparativa.png">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Geovanna-med/Enterate/blob/main/Im%C3%A1genes/Porcentajes.png">
+</p>
 
 ***
 | [Anterior](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Proceso%20de%20trabajo.md "Anterior") 
