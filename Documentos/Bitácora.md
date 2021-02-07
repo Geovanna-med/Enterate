@@ -585,5 +585,5 @@
 
 
 ***
-| [Anterior](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Competencias.md "Anterior") 
+| [Anterior](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Productos%20Finales.md#productos-finales "Anterior") 
 | [Inicio](https://github.com/Geovanna-med/Enterate "Inicio") |
