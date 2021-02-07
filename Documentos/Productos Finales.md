@@ -5,11 +5,13 @@
 
 ### Póster
 
+Link del Póster: [https://drive.google.com/file/d/11Ov0EJANwGZLHQSfr6aM94Fz-6K-ZZti/view?usp=sharing](https://drive.google.com/file/d/11Ov0EJANwGZLHQSfr6aM94Fz-6K-ZZti/view?usp=sharing)
 
 ### Presentación del producto Final
 
 Link de nuestro video en youtube: [https://youtu.be/Qqf_BIQsTdE](https://youtu.be/Qqf_BIQsTdE)
 
+### Página web
 
 
 
