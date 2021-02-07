@@ -39,7 +39,183 @@ final poder sumar las tareas y medir su nivel de contribucion de cada integrante
 |Competencias generales y especificas|Edwin|Alta|3|
 |Orden del repositorio|Wilder |Bajo|1|
 
+**
 
+<!DOCTYPE html>
+<html>
+<body>
+<table>
+	<tr>
+		<td colspan="4" align="center">Tercera entrega</td>
+	</tr>
+	<tr>
+		<td colspan="4" align="center">Artículo</td>
+	</tr>
+	<tr>
+		<td align="center">Tarea</td>
+		<td align="center">Responsable</td>
+		<td align="center">Dificultad</td>
+		<td align="center">Puntaje</td>
+	</tr>
+	<tr>	
+		<td align="center">Resumen</td>
+		<td align="center">Geovanna</td>
+		<td align="center">Alta</td>
+		<td align="center">3</td>
+	</tr>
+	<tr>	
+		<td align="center">Objetivo y justificación </td>
+		<td align="center">Wilder</td>
+		<td align="center">Media</td>
+		<td align="center">2</td>
+	</tr>
+	<tr>	
+		<td align="center">Palabras Claves</td>
+		<td align="center">Edwin</td>
+		<td align="center">Baja</td>
+		<td align="center">1</td>
+	</tr>
+	<tr>	
+		<td align="center">Metodología</td>    
+		<td align="center">Carlos</td>
+		<td align="center">Alta</td>
+		<td align="center">3</td>
+	</tr>
+	<tr>	
+		<td align="center">Seguimiento del proyecto</td>
+		<td align="center">Wilder</td>
+		<td align="center">Media</td>
+		<td align="center">2</td>
+	</tr>
+	<tr>	
+		<td align="center">Lecciones aprendidas</td>
+		<td align="center">Edwin</td>
+		<td align="center">Alta</td>
+		<td align="center">3</td>
+	</tr>
+	<tr>	
+		<td align="center">Conclusiones</td>
+		<td align="center">Luz</td>
+		<td align="center">Media</td>
+		<td align="center">2</td>
+	</tr>
+	<tr>	
+		<td align="center">Redacción del documento</td>
+		<td align="center">Luz</td>
+		<td align="center">Media</td>
+		<td align="center">2</td>
+	</tr>
+	<tr>	
+		<td colspan="4" align="center">Vídeo</td>
+	</tr>
+	<tr>
+		<td align="center">Presentación (Material)</td>
+		<td align="center">Luz</td>
+		<td align="center">Media</td>
+		<td align="center">2</td>
+	</tr>
+	<tr>	
+		<td align="center">Vídeo (Edición)</td>
+		<td align="center">Geovanna</td>
+		<td align="center">Media</td>
+		<td align="center">2</td>
+	</tr>
+	<tr>	
+		<td align="center">Presentación (Audios) </td>
+		<td align="center">Todos</td>
+		<td align="center">Alta</td>
+		<td align="center">3</td>
+	</tr>
+	<tr>	
+		<td colspan="4" align="center">Página web</td>
+	</tr>
+	<tr>	
+		<td align="center" rowspan="3">Programación</td>
+		<td align="center">Luz</td>
+		<td align="center">Media</td>
+		<td align="center">2</td>
+	</tr>
+	<tr>	
+		<td align="center">Carlos</td>
+		<td align="center">Alta</td>
+		<td align="center">3</td>
+	</tr>
+	<tr>
+		<td align="center">Wilder</td>
+		<td align="center">Media</td>
+		<td align="center">2</td>
+	</tr>
+	<tr>	
+		<td align="center">Adaptabilidad de la página</td>
+		<td align="center">Carlos</td>
+		<td align="center">Alta</td>
+		<td align="center">3</td>
+	</tr>
+	<tr>	
+		<td align="center" rowspan="3">Investigación de la información</td>
+		<td align="center">Geovanna</td>
+		<td align="center">Media</td>
+		<td align="center">2</td>
+	</tr>
+	<tr>	
+		<td align="center">Edwin</td>
+		<td align="center">Media</td>
+		<td align="center">2</td>
+	</tr>
+	<tr>
+		<td align="center">Carlos</td>
+		<td align="center">Baja</td>
+		<td align="center">1</td>
+	</tr>
+	<tr>	
+		<td colspan="4" align="center">Tareas</td>
+	</tr>
+	<tr>
+		<td align="center">Competencias</td>
+		<td align="center">Edwin</td>
+		<td align="center">Alta</td>
+		<td align="center">3</td>
+	</tr>
+	<tr>
+		<td align="center">Métricas de contribución</td>
+		<td align="center">Wilder</td>
+		<td align="center">Baja</td>
+		<td align="center">1</td>
+	</tr>
+	<tr>
+		<td align="center">Documento de contenido y
+contribución</td>
+		<td align="center">Wilder</td>
+		<td align="center">Baja</td>
+		<td align="center">1</td>
+	</tr>
+	<tr>
+		<td align="center">Bitácoras</td>
+		<td align="center">Wilder</td>
+		<td align="center">Baja</td>
+		<td align="center">1</td>
+	</tr>
+	<tr>
+		<td align="center">Póster</td>
+		<td align="center">Edwin y Carlos</td>
+		<td align="center">Alta</td>
+		<td align="center">1.5 y 1.5</td>
+	</tr>
+	<tr>
+		<td align="center">Organización del repositorio</td>
+		<td align="center">Geovanna</td>
+		<td align="center">Baja</td>
+		<td align="center">1</td>
+	</tr>
+	<tr>
+		<td align="center">Redacción de críticas del curso</td>
+		<td align="center">Edwin y Carlos</td>
+		<td align="center">Alta</td>
+		<td align="center">1.5 y 1.5</td>
+	</tr>
+</table>
+</body>
+</html>
 
 
 Haciendo así un total de contribución de:
