@@ -27,6 +27,11 @@ final poder sumar las tareas y medir su nivel de contribucion de cada integrante
 | Exposición de la presentación | Luz y Geovanna | Alta | 1.5 y 1.5 |
 | Competencias generales | Edwin | Alta | 3 |
 | Competencias específicas | Edwin | Alta | 3 |
+
+***
+|	Segunda entrega	|
+|    Tareas    |    Responsable    |   Dificultad   | Puntuación | 
+|--------------|-------------------|----------------|------------|
 | Maquetado de la pagina | Geovanna| Baja | 1 |
 | Diseño de la página | Geovanna | Alta | 3 | 
 | Prototipo de la página | Luz | Alta | 3 |
@@ -39,7 +44,7 @@ final poder sumar las tareas y medir su nivel de contribucion de cada integrante
 |Competencias generales y especificas|Edwin|Alta|3|
 |Orden del repositorio|Wilder |Bajo|1|
 
-**
+***
 
 <!DOCTYPE html>
 <html>
