@@ -1,4 +1,4 @@
-# Productos Finales
+# Productos finales
 
 ### Reporte escrito
 
