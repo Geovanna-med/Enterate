@@ -556,6 +556,302 @@
 	</tr>
 
 </table>
+
+***
+
+# Tercer Sprint
+
+<table>
+	<tr>
+		<td colspan="2" align="center">11 de enero de 2021</td>
+		<td align="center">14:00-15:30</td>
+	</tr>
+	<tr>
+		<td colspan="3"> Sprint Retrospective
+		<Br> Nos reunimos para saber que salió bien en este sprint y que se puede mejorar, contamos experiencias, las interacciones que tuvimos con el equipo, los procesos y herramientas que usamos y podemos utilizar, fuimos más abiertos para tener una mejor confianza y así mejor el proceso de trabajo. De igual manera hablamos sobre el proceso de trabajo de este último sprint y de la importancia del compromiso de cada integrante.
+</td>
+	</tr>
+	<tr>
+		<td align="center">Tareas</td>
+		<td align="center">Participantes</td>
+		<td align="center">Fecha límite de entrega</td>
+	</tr>
+	<tr>
+		<td valign="top"> 
+		</td>
+
+		<td valign="top" width="200">
+			<ul>
+				<li>Luz García</li>
+				<li>Geovanna Medina</li>
+				<li>Wilder Turriza</li>
+				<li>Carlos Requena</li>
+				<li>Edwin Martín</li>
+			</ul>
+</td>
+		<td valign="top"></td>
+	</tr>
+	<tr>
+		<td colspan="3" align="center">Producto resultante</td>
+	</tr>
+	<tr>
+		<td colspan="3" valign="top">Confianza en equipo y mejora en la realización de procesos. <br>
+		Compromiso de trabajo</td>
+	</tr>
+
+</table>
+
+***
+
+<table>
+	<tr>
+		<td colspan="2" align="center">13 de enero de 2020</td>
+		<td align="center">18:00-19:40</td>
+	</tr>
+	<tr>
+		<td colspan="3"> Sprint Planning
+		<Br> Se habló del trabajo que se realizará en el tercer sprint, se contempla la lista de cotejo y los criterios del vídeo, póster y artículo. Se mencionaron las habilidades de cada integrante para poder dividir las actividades a pertir de estas. Todo esto para la creación del Product Backlog.
+
+</td>
+	</tr>
+	<tr>
+		<td align="center">Tareas</td>
+		<td align="center">Participantes</td>
+		<td align="center">Fecha límite de entrega</td>
+	</tr>
+	<tr>
+		<td valign="top"> Creación del Product Backlog por Geovanna y Wilder
+		</td>
+
+		<td valign="top" width="200">
+			<ul>
+				<li>Luz García</li>
+				<li>Geovanna Medina</li>
+				<li>Wilder Turriza</li>
+				<li>Carlos Requena</li>
+				<li>Edwin Martín</li>
+			</ul>
+</td>
+		<td valign="top">14 de diciembre 2020 </td>
+	</tr>
+	<tr>
+		<td colspan="3" align="center">Producto resultante</td>
+	</tr>
+	<tr>
+		<td colspan="3" valign="top">Creación del Product Backlog de este sprint</td>
+	</tr>
+
+</table>
+
+***
+
+<table>
+	<tr>
+		<td colspan="2" align="center">13 de enero de 2020</td>
+		<td align="center">16:00-18:00</td>
+	</tr>
+	<tr>
+		<td colspan="3"> Sprint Planning
+		<Br> Se habló del trabajo que se realizará en el tercer sprint, se contempla la lista de cotejo y los criterios del vídeo, póster y artículo. Se mencionaron las habilidades de cada integrante para poder dividir las actividades a partir de estas. Todo esto para la creación del Product Backlog.
+
+</td>
+	</tr>
+	<tr>
+		<td align="center">Tareas</td>
+		<td align="center">Participantes</td>
+		<td align="center">Fecha límite de entrega</td>
+	</tr>
+	<tr>
+		<td valign="top"> Creación del Product Backlog por Geovanna y Wilder
+		</td>
+
+		<td valign="top" width="200">
+			<ul>
+				<li>Luz García</li>
+				<li>Geovanna Medina</li>
+				<li>Wilder Turriza</li>
+				<li>Carlos Requena</li>
+				<li>Edwin Martín</li>
+			</ul>
+</td>
+		<td valign="top">15 de diciembre 2020 </td>
+	</tr>
+	<tr>
+		<td colspan="3" align="center">Producto resultante</td>
+	</tr>
+	<tr>
+		<td colspan="3" valign="top">Creación del Product Backlog de este sprint</td>
+	</tr>
+
+</table>
+
+***
+
+<table>
+	<tr>
+		<td colspan="2" align="center">14 de enero de 2020</td>
+		<td align="center">17:00-17:30</td>
+	</tr>
+	<tr>
+		<td colspan="3"> Junta con el profesor José Luís
+		<Br> Se le mostró la gestión e ideas de este spint, el maquetado y prototipo del producto al profesor. De igual manera se realizaron cuestiones de esta entrega.
+
+</td>
+	</tr>
+	<tr>
+		<td align="center">Tareas</td>
+		<td align="center">Participantes</td>
+		<td align="center">Fecha límite de entrega</td>
+	</tr>
+	<tr>
+		<td valign="top">
+		</td>
+
+		<td valign="top" width="200">
+			<ul>
+				<li>Luz García</li>
+				<li>Geovanna Medina</li>
+			</ul>
+</td>
+		<td valign="top"> </td>
+	</tr>
+	<tr>
+		<td colspan="3" align="center">Producto resultante</td>
+	</tr>
+	<tr>
+		<td colspan="3" valign="top">Resolución de cuestiones y orientación del equipo</td>
+	</tr>
+
+</table>
+
+***
+
+<table>
+	<tr>
+		<td colspan="2" align="center">15  de enero de 2021</td>
+		<td align="center">18:00-19:40</td>
+	</tr>
+	<tr>
+		<td colspan="3"> Sprint Backlog
+		<Br> División de los elementos del Product Backlog, se habló de cómo se podrían realizar y que se debía entregar. Se estableció el Definition of Done. 
+
+</td>
+	</tr>
+	<tr>
+		<td align="center">Tareas</td>
+		<td align="center">Participantes</td>
+		<td align="center">Fecha límite de entrega</td>
+	</tr>
+	<tr>
+		<td valign="top"> División de tareas y priorización en la sección trabjo de equipo.   
+		</td>
+
+		<td valign="top" width="200">
+			<ul>
+				<li>Luz García</li>
+				<li>Geovanna Medina</li>
+				<li>Wilder Turriza</li>
+				<li>Carlos Requena</li>
+				<li>Edwin Martín</li>
+			</ul>
+</td>
+		<td valign="top">Fechas en el tablero de Trello </td>
+	</tr>
+	<tr>
+		<td colspan="3" align="center">Producto resultante</td>
+	</tr>
+	<tr>
+		<td colspan="3" valign="top">División de tareas y priorización. <br>
+			Definition of Done. <br>
+			Documento de contenido y contribución del sprint por Wilder.
+		</td>
+	</tr>
+
+</table>
+
+***
+
+<table>
+	<tr>
+		<td colspan="2" align="center">23  de enero de 2021</td>
+		<td align="center">20:00-21:00</td>
+	</tr>
+	<tr>
+		<td colspan="3"> Error en la página
+		<Br> La página no era responsiva, se habló del diseño y se tomaron acciones inmediatas. 
+
+</td>
+	</tr>
+	<tr>
+		<td align="center">Tareas</td>
+		<td align="center">Participantes</td>
+		<td align="center">Fecha límite de entrega</td>
+	</tr>
+	<tr>
+		<td valign="top"> Implementación de un diseño improvisado para que facilitar la adaptabilidad de la página por Carlos   
+		</td>
+
+		<td valign="top" width="200">
+			<ul>
+				<li>Luz García</li>
+				<li>Geovanna Medina</li>
+				<li>Wilder Turriza</li>
+				<li>Carlos Requena</li>
+				<li>Edwin Martín</li>
+			</ul>
+</td>
+		<td valign="top">27 de enero de 2021</td>
+	</tr>
+	<tr>
+		<td colspan="3" align="center">Producto resultante</td>
+	</tr>
+	<tr>
+		<td colspan="3" valign="top"> Creación de una página responsiva con un diseño improvisado y fácil.
+		</td>
+	</tr>
+
+</table>
+
+<table>
+	<tr>
+		<td colspan="2" align="center">2 de febrero de 2021</td>
+		<td align="center">11:00-12:00</td>
+	</tr>
+	<tr>
+		<td colspan="3"> Reunión de avances con el profesor José Luís
+		<Br> Se le presentaron todos los avances al profesor (Artículo, página, idea del vídeo) y se realizaron comentarios de cada uno de los productos.
+
+</td>
+	</tr>
+	<tr>
+		<td align="center">Tareas</td>
+		<td align="center">Participantes</td>
+		<td align="center">Fecha límite de entrega</td>
+	</tr>
+	<tr>
+		<td valign="top"> Mejorar los productos a partir de los comentarios del maestro   
+		</td>
+
+		<td valign="top" width="200">
+			<ul>
+				<li>Luz García</li>
+				<li>Geovanna Medina</li>
+				<li>Wilder Turriza</li>
+				<li>Carlos Requena</li>
+				<li>Edwin Martín</li>
+			</ul>
+</td>
+		<td valign="top">06 de febrero de 2021</td>
+	</tr>
+	<tr>
+		<td colspan="3" align="center">Producto resultante</td>
+	</tr>
+	<tr>
+		<td colspan="3" valign="top"> Mejora de productos
+		</td>
+	</tr>
+
+</table>
 </p>
 </body>
 </html>
