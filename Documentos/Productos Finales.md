@@ -8,7 +8,7 @@ Link del reporte: [https://drive.google.com/drive/folders/1mppowls8D876cS2w4wFfZ
 
 Link del póster: [https://drive.google.com/file/d/11Ov0EJANwGZLHQSfr6aM94Fz-6K-ZZti/view?usp=sharing](https://drive.google.com/file/d/11Ov0EJANwGZLHQSfr6aM94Fz-6K-ZZti/view?usp=sharing)
 
-### Presentación del producto Final
+### Presentación del producto final
 
 Link de nuestro video en YouTube: [https://youtu.be/Qqf_BIQsTdE](https://youtu.be/Qqf_BIQsTdE)
 
