@@ -1,8 +1,8 @@
-## Bitácora
+# Bitácora
 
 
 
-### Primer Sprint
+## Primer Sprint
 
 <!DOCTYPE html>
 <html>
@@ -303,7 +303,7 @@
 
 ***
 
-### Segundo Sprint
+## Segundo Sprint
 
 
 <table>
@@ -559,7 +559,7 @@
 
 ***
 
-# Tercer Sprint
+## Tercer Sprint
 
 <table>
 	<tr>
@@ -580,7 +580,7 @@
 		<td valign="top"> 
 		</td>
 
-		<td valign="top" width="200">
+<td valign="top" width="200">
 			<ul>
 				<li>Luz García</li>
 				<li>Geovanna Medina</li>
@@ -623,7 +623,7 @@
 		<td valign="top"> Creación del Product Backlog por Geovanna y Wilder
 		</td>
 
-		<td valign="top" width="200">
+<td valign="top" width="200">
 			<ul>
 				<li>Luz García</li>
 				<li>Geovanna Medina</li>
@@ -665,7 +665,7 @@
 		<td valign="top"> Creación del Product Backlog por Geovanna y Wilder
 		</td>
 
-		<td valign="top" width="200">
+<td valign="top" width="200">
 			<ul>
 				<li>Luz García</li>
 				<li>Geovanna Medina</li>
@@ -707,7 +707,7 @@
 		<td valign="top">
 		</td>
 
-		<td valign="top" width="200">
+<td valign="top" width="200">
 			<ul>
 				<li>Luz García</li>
 				<li>Geovanna Medina</li>
@@ -746,7 +746,7 @@
 		<td valign="top"> División de tareas y priorización en la sección trabjo de equipo.   
 		</td>
 
-		<td valign="top" width="200">
+<td valign="top" width="200">
 			<ul>
 				<li>Luz García</li>
 				<li>Geovanna Medina</li>
@@ -791,7 +791,7 @@
 		<td valign="top"> Implementación de un diseño improvisado para que facilitar la adaptabilidad de la página por Carlos   
 		</td>
 
-		<td valign="top" width="200">
+<td valign="top" width="200">
 			<ul>
 				<li>Luz García</li>
 				<li>Geovanna Medina</li>
@@ -832,7 +832,7 @@
 		<td valign="top"> Mejorar los productos a partir de los comentarios del maestro   
 		</td>
 
-		<td valign="top" width="200">
+<td valign="top" width="200">
 			<ul>
 				<li>Luz García</li>
 				<li>Geovanna Medina</li>
