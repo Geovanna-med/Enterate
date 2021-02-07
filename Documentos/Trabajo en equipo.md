@@ -4,6 +4,7 @@ Para este apartado realizamos una tabla en donde se muestran las tareas a realiz
 equipo para que sea realizada. También se les agregó un puntaje de entre 1 y 3 para determinar la dificultad de la tarea (siendo 1=baja, 2=media y 3=alta) para al 
 final poder sumar las tareas y medir su nivel de contribucion de cada integrante de una manera objetiva.
 
+## Primera entrega
 
 |    Tareas    |    Responsable    |   Dificultad   | Puntuación | 
 |--------------|-------------------|----------------|------------|
@@ -29,7 +30,7 @@ final poder sumar las tareas y medir su nivel de contribucion de cada integrante
 | Competencias específicas | Edwin | Alta | 3 |
 
 ***
-|	Segunda entrega	|
+## Segunda entrega
 |    Tareas    |    Responsable    |   Dificultad   | Puntuación | 
 |--------------|-------------------|----------------|------------|
 | Maquetado de la pagina | Geovanna| Baja | 1 |
@@ -46,13 +47,12 @@ final poder sumar las tareas y medir su nivel de contribucion de cada integrante
 
 ***
 
+## Tercera entrega
+
 <!DOCTYPE html>
 <html>
 <body>
 <table>
-	<tr>
-		<td colspan="4" align="center">Tercera entrega</td>
-	</tr>
 	<tr>
 		<td colspan="4" align="center">Artículo</td>
 	</tr>
