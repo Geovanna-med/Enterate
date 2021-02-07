@@ -23,3 +23,4 @@
   - [Competencias de la asignatura](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Competencias.md)
   - [Productos finales](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Productos%20Finales.md#productos-finales)
   - [Bitácora](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Bit%C3%A1cora.md)
+  - [Crítica acerca del curso](https://github.com/Geovanna-med/Enterate/blob/main/Documentos/Critica.md#cr%C3%ADtica-acerca-del-curso)
