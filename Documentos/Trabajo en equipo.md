@@ -1,8 +1,6 @@
 # Trabajo en equipo
 
-Para este apartado realizamos una tabla en donde se muestran las tareas a realizar, como se especificaban en la lista de cotejo, y se les asignó a los integrantes del 
-equipo para que sea realizada. También se les agregó un puntaje de entre 1 y 3 para determinar la dificultad de la tarea (siendo 1=baja, 2=media y 3=alta) para al 
-final poder sumar las tareas y medir su nivel de contribucion de cada integrante de una manera objetiva.
+Para este apartado realizamos una tabla en donde se muestran las tareas a realizar, como se especificaba en la lista de cotejo, en la que se puede visualizar las que fueron asignadas a cada uno de los integrantes del equipo y a las que se les adjudicó un puntaje de entre 1 y 3 para determinar la dificultad de la tarea (siendo 1=baja, 2=media y 3=alta) para al final poder sumar las tareas y medir el nivel de contribucion de cada integrante de una manera objetiva.
 
 ## Primera entrega
 
@@ -12,8 +10,8 @@ final poder sumar las tareas y medir su nivel de contribucion de cada integrante
 |   Usuarios   | Luz               |   Media        |   2        |
 |   Cliente    | Luz               |   Baja         |    1       |
 |Innovación/Creatividad | Luz y Wilder|  Media       |1 y 1      |
-|Requerimientos Funcionales | Luz, Wilder y Geovanna |  Alta| 1, 1 y 1|
-| Requerimientos No Funcionales | Luz, Wilder y Geovanna | Alta | 1, 1 y 1 |
+|Requerimientos funcionales | Luz, Wilder y Geovanna |  Alta| 1, 1 y 1|
+| Requerimientos no funcionales | Luz, Wilder y Geovanna | Alta | 1, 1 y 1 |
 |Método de prioridad | Carlos y Edwin | Alta |1 y 2|
 |Diagrama de casos de uso | Carlos | Alto | 3 |
 | Artefactos| Wilder | Media | 2| 
@@ -33,16 +31,16 @@ final poder sumar las tareas y medir su nivel de contribucion de cada integrante
 ## Segunda entrega
 |    Tareas    |    Responsable    |   Dificultad   | Puntuación | 
 |--------------|-------------------|----------------|------------|
-| Maquetado de la pagina | Geovanna| Baja | 1 |
+| Maquetado de la página | Geovanna| Baja | 1 |
 | Diseño de la página | Geovanna | Alta | 3 | 
 | Prototipo de la página | Luz | Alta | 3 |
 | Refinamiento de requerimientos | Wilder | Media | 2 |
 |Refinamiento de casos de uso| Wilder| Media | 2 |
 | Refinamiento del diagrama de casos de uso| Carlos| Media| 2|
 | Segunda presentación de avances | Geovanna y Luz| Alta | 1 y 2|
-|Segunda Exposición de la presentación| Geovanna y Luz| Alta| 1.5 y 1.5|
-|Bitacoras del segundo spint| Wilder|Bajo| 1|
-|Competencias generales y especificas|Edwin|Alta|3|
+|Segunda exposición de la presentación| Geovanna y Luz| Alta| 1.5 y 1.5|
+|Bitácoras del segundo spint| Wilder|Bajo| 1|
+|Competencias generales y específicas|Edwin|Alta|3|
 |Orden del repositorio|Wilder |Bajo|1|
 
 ***
@@ -60,7 +58,7 @@ final poder sumar las tareas y medir su nivel de contribucion de cada integrante
 		<td align="center"><b>Tarea</b></td>
 		<td align="center"><b>Responsable</b></td>
 		<td align="center"><b>Dificultad</b></td>
-		<td align="center"><b>Puntaje</b></td>
+		<td align="center"><b>Puntuación</b></td>
 	</tr>
 	<tr>	
 		<td align="center">Resumen</td>
@@ -75,7 +73,7 @@ final poder sumar las tareas y medir su nivel de contribucion de cada integrante
 		<td align="center">2</td>
 	</tr>
 	<tr>	
-		<td align="center">Palabras Claves</td>
+		<td align="center">Palabras claves</td>
 		<td align="center">Edwin</td>
 		<td align="center">Baja</td>
 		<td align="center">1</td>
@@ -105,13 +103,13 @@ final poder sumar las tareas y medir su nivel de contribucion de cada integrante
 		<td align="center">2</td>
 	</tr>
 	<tr>	
-		<td align="center">Redacción del documento</td>
+		<td align="center">Edición del reporte</td>
 		<td align="center">Luz</td>
 		<td align="center">Media</td>
 		<td align="center">2</td>
 	</tr>
 	<tr>	
-		<td colspan="4" align="center"><b>Vídeo</b></td>
+		<td colspan="4" align="center"><b>Video</b></td>
 	</tr>
 	<tr>
 		<td align="center">Presentación (Material)</td>
@@ -224,7 +222,7 @@ contribución</td>
 
 ## Contribución
 
-En la gráfica 1.1 Comparativa de contribución nos proyecta el puntaje de contribución de cada integrante en comparación de todos los Sprint. Al sumar todos estos puntajes obtenemos un total de 134 puntos, los cuales se toman como el 100% del proyecto, de esta forma se pueden obtener los porcentajes de contribución total del proyecto de cada integrante, estos porcentajes se muestran en la gráfica 1.2 contribución final.
+La Gráfica 1.1 nos proyecta el puntaje de contribución de cada integrante en comparación de todos los sprints. Al sumar todos estos puntajes, se obtiene un total de 134 puntos, los cuales se toman como el 100% del proyecto, y de esta forma se pueden obtener los porcentajes de contribución total del proyecto de cada integrante, que se muestran en la Gráfica 1.2.
 
 <p align="center">
   <img src="https://github.com/Geovanna-med/Enterate/blob/main/Im%C3%A1genes/Comparativa.png">
